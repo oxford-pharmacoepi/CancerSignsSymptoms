@@ -1,0 +1,12 @@
+/.Rproj.user
+.Rprofile
+CodeToRun_Local.R
+results/*.csv
+shiny/.Rhistory
+/shiny/.Rproj.user
+shiny/data/appData.RData
+shiny/rsconnect/shinyapps.io/dpa-pde-oxford/PhenotypeR_PancreaticCancer.dcf
+shiny/data/CPRD_GOLD_summary_characteristics.csv
+shiny/data/raw/CPRD_GOLD_result.csv
+/shiny/tables_plots
+/PhenotypeRShiny/.Rproj.user

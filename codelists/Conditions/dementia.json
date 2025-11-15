@@ -1,0 +1,2455 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4167839,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4204688,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4097384,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 36674472,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4043379,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37311890,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37109635,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37395572,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 36717455,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4046091,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4048875,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4236297,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4196433,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37312036,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 376946,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 45765477,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 380986,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4043241,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44782726,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 379778,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 379784,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37109222,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37312035,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4043243,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4043377,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4182210,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4043378,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44784643,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 45765480,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4101137,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4228133,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4100250,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4159643,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44784620,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 3654598,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 765653,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 42538857,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37395562,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 378726,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 45766396,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4250118,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 377254,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 762704,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4233045,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 378419,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 374888,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4236296,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4043244,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 444091,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4041685,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4044415,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4224860,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37312031,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37312030,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 36716797,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37117145,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44784607,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44784472,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37396063,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44784474,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 376094,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 374326,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4180284,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44782763,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 443790,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37110513,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4100252,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4047748,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 443864,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37399020,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 35610098,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4314734,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 762497,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 40483103,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 36716796,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44782559,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 35608576,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4092747,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 36716558,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 35610099,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44782422,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4046090,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37017549,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 378125,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 45771254,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44782710,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4224240,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 42538609,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37017247,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 36717248,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 381832,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 43020422,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4043242,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44782771,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 441002,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 43021816,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37116469,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44782727,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 3654434,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4244346,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 377527,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4098163,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37111242,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4218017,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 43530664,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 380701,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 35610096,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 43530666,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 43020444,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4277444,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37311665,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 44782432,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37110677,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4277746,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37018608,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4182539,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4019705,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4220313,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4278830,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 762578,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4047747,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 439276,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 376085,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 375791,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 443605,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 4046089,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37018688,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37109056,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "",
+        "CONCEPT_CODE": "",
+        "CONCEPT_ID": 37312577,
+        "CONCEPT_NAME": "",
+        "DOMAIN_ID": "",
+        "INVALID_REASON": "",
+        "INVALID_REASON_CAPTION": "",
+        "STANDARD_CONCEPT": "",
+        "STANDARD_CONCEPT_CAPTION": "",
+        "VOCABULARY_ID": "",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    }
+  ]
+}
