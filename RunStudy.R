@@ -15,7 +15,7 @@ cancer_codelists <- read_csv(paste0(here("codelists"), "/prelim_codelists_review
   newCodelist() %>%
   subsetToCodesInUse(cdm = cdm)
 
-#filter out concepts not required
+#han combined
 han_codelist <- read_csv(paste0(here("codelists"), "/prelim_codelists_reviewed.csv")) %>%
   filter(cancer %in% c("hypopharynx",
                        "larynx",
@@ -25,16 +25,56 @@ han_codelist <- read_csv(paste0(here("codelists"), "/prelim_codelists_reviewed.c
                        "oropharynx" ,
                        "salivary gland" ) )
 
-
 #create han codelist using codelist by combining all concepts together
 # # create a combination for han cancer
-han_cancer <- list(han_cancer = c(han_codelist$concept_id)) %>%
+han <- list(han = c(han_codelist$concept_id)) %>%
   omopgenerics::newCodelist()
+
+# create a codelist for lip and oral cavity combined
+lip_oral_cavity_codelist <- read_csv(paste0(here("codelists"), "/prelim_codelists_reviewed.csv")) %>%
+  filter(cancer %in% c("lip",
+                       "oral cavity" ) )
+
+lip_oral_cavity <- list(lip_oral_cavity = c(lip_oral_cavity_codelist$concept_id)) %>%
+  omopgenerics::newCodelist()
+
+# create a combined lung, trachea and bronchus codelist
+lung_trachea_bronchus_codelist <- read_csv(paste0(here("codelists"), "/prelim_codelists_reviewed.csv")) %>%
+  filter(cancer %in% c("lung",
+                       "bronchus" ,
+                       "trachea"  ,
+                       "respiratory tract" ) )
+
+lung_bron_trac <- list(lung_bron_trac = c(lung_trachea_bronchus_codelist$concept_id)) %>%
+  omopgenerics::newCodelist()
+
+
+# create a combined colorectal cancer codelist
+colorectal_codelist <- read_csv(paste0(here("codelists"), "/prelim_codelists_reviewed.csv")) %>%
+  filter(cancer %in% c("colon",
+                       "rectum" ) )
+
+colorectal <- list(colorectal = c(colorectal_codelist$concept_id)) %>%
+  omopgenerics::newCodelist()
+
+# remove codelists from cancer_codelists that are no longer required (individual components so lip, oral cavity, lung, bronc etc)
+cancer_codelists <- cancer_codelists[!names(cancer_codelists) %in% c("lung",
+                                                                     "bronchus",
+                                                                     "trachea",
+                                                                     "respiratory tract",
+                                                                     "lip",
+                                                                     "oral cavity",
+                                                                     "colon",
+                                                                     "rectum")] %>% 
+  newCodelist()
 
 # # combine all together into one codelist
 cancer_codelists <- bind(
   cancer_codelists,
-  han_cancer
+  han,
+  lip_oral_cavity,
+  lung_bron_trac,
+  colorectal
 ) %>%
   newCodelist()
 

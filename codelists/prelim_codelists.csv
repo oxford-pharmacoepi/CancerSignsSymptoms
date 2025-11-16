@@ -441,8 +441,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 4091614,From descendants,Malignant neoplasm of medulla oblongata,Condition,SNOMED,S,brain
 602070,From descendants,Primary malignant glioma of parietal lobe,Condition,SNOMED,S,brain
 4177235,From descendants,Malignant tumor of pituitary gland,Condition,SNOMED,S,brain
-37161446,From descendants,Adenocarcinoma of pituitary gland,Condition,SNOMED,S,brain
 37174121,From descendants,Primary astrocytoma of occipital lobe,Condition,SNOMED,S,brain
+37161446,From descendants,Adenocarcinoma of pituitary gland,Condition,SNOMED,S,brain
 36717624,From descendants,Primary glioblastoma multiforme of frontal lobe,Condition,SNOMED,S,brain
 4308934,From descendants,Malignant glioma of brainstem,Condition,SNOMED,S,brain
 4112961,From descendants,Oligodendroglioma of brain,Condition,SNOMED,S,brain
@@ -975,8 +975,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 45772941,From descendants,Primary basaloid squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,lip
 4111649,From descendants,Malignant tumor of tip of tongue,Condition,SNOMED,S,lip
 433704,From descendants,Primary malignant neoplasm of retromolar area,Condition,SNOMED,S,lip
-37162938,From descendants,Chondrosarcoma of gingiva,Condition,SNOMED,S,lip
 37174196,From descendants,Primary undifferentiated carcinoma of posterior wall of nasopharynx,Condition,SNOMED,S,lip
+37162938,From descendants,Chondrosarcoma of gingiva,Condition,SNOMED,S,lip
 4115137,From descendants,Malignant tumor of anterior pillar of fauces,Condition,SNOMED,S,lip
 4089655,From descendants,Malignant tumor of Waldeyer's ring,Condition,SNOMED,S,lip
 42537753,From descendants,Primary squamous cell carcinoma of submandibular gland,Condition,SNOMED,S,lip
@@ -1400,8 +1400,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 45772941,From descendants,Primary basaloid squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,oral cavity
 4111649,From descendants,Malignant tumor of tip of tongue,Condition,SNOMED,S,oral cavity
 433704,From descendants,Primary malignant neoplasm of retromolar area,Condition,SNOMED,S,oral cavity
-37174196,From descendants,Primary undifferentiated carcinoma of posterior wall of nasopharynx,Condition,SNOMED,S,oral cavity
 37162938,From descendants,Chondrosarcoma of gingiva,Condition,SNOMED,S,oral cavity
+37174196,From descendants,Primary undifferentiated carcinoma of posterior wall of nasopharynx,Condition,SNOMED,S,oral cavity
 4115137,From descendants,Malignant tumor of anterior pillar of fauces,Condition,SNOMED,S,oral cavity
 4089655,From descendants,Malignant tumor of Waldeyer's ring,Condition,SNOMED,S,oral cavity
 42537753,From descendants,Primary squamous cell carcinoma of submandibular gland,Condition,SNOMED,S,oral cavity
@@ -1616,8 +1616,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 45768984,From descendants,Primary squamous cell carcinoma of anterior surface of epiglottis,Condition,SNOMED,S,oral cavity
 4311479,From descendants,Primary malignant neoplasm of hypopharyngeal aspect of interarytenoid fold,Condition,SNOMED,S,oral cavity
 4180789,From descendants,Malignant tumor of pyriform fossa,Condition,SNOMED,S,oral cavity
-37166188,From descendants,Primary carcinoma of midline of tongue,Condition,SNOMED,S,oral cavity
 37174197,From descendants,Primary undifferentiated carcinoma of superior wall of nasopharynx,Condition,SNOMED,S,oral cavity
+37166188,From descendants,Primary carcinoma of midline of tongue,Condition,SNOMED,S,oral cavity
 4094720,From descendants,Malignant tumor of tonsillar pillar,Condition,SNOMED,S,oral cavity
 4180909,From descendants,Malignant tumor of minor salivary gland,Condition,SNOMED,S,oral cavity
 37166371,From descendants,Primary adenoid cystic carcinoma of oropharynx,Condition,SNOMED,S,oral cavity
@@ -1751,8 +1751,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 4092057,From descendants,Malignant tumor of pharyngeal recess,Condition,SNOMED,S,oral cavity
 37116584,From descendants,Primary squamous cell carcinoma of lip,Condition,SNOMED,S,oral cavity
 602115,From descendants,Primary squamous cell carcinoma of mucous membrane of upper lip,Condition,SNOMED,S,oral cavity
-4173799,From descendants,Carcinoma ventral surface of tongue,Condition,SNOMED,S,oral cavity
 4162861,From descendants,Primary malignant neoplasm of minor salivary gland,Condition,SNOMED,S,oral cavity
+4173799,From descendants,Carcinoma ventral surface of tongue,Condition,SNOMED,S,oral cavity
 4090226,From descendants,Malignant tumor of vestibule of mouth,Condition,SNOMED,S,oral cavity
 254282,From descendants,Primary malignant neoplasm of soft palate,Condition,SNOMED,S,oral cavity
 4150793,From descendants,Malignant tumor of lower labial mucosa,Condition,SNOMED,S,oral cavity
@@ -1773,8 +1773,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 4169627,From descendants,Squamous cell carcinoma of oral mucous membrane,Condition,SNOMED,S,oral cavity
 4095313,From descendants,Malignant tumor of anterior wall of nasopharynx,Condition,SNOMED,S,oral cavity
 45768977,From descendants,Primary squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,oral cavity
-37166202,From descendants,Primary carcinoma of anterior part of floor of mouth,Condition,SNOMED,S,oral cavity
 37174194,From descendants,Primary undifferentiated carcinoma of anterior wall of nasopharynx,Condition,SNOMED,S,oral cavity
+37166202,From descendants,Primary carcinoma of anterior part of floor of mouth,Condition,SNOMED,S,oral cavity
 45769032,From descendants,Primary infiltrating duct carcinoma of oropharynx,Condition,SNOMED,S,oral cavity
 4309545,From descendants,Squamous cell carcinoma of oropharynx,Condition,SNOMED,S,oral cavity
 439745,From descendants,Primary malignant neoplasm of salivary gland duct,Condition,SNOMED,S,oral cavity
@@ -2032,6 +2032,769 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 602696,From descendants,Primary small cell carcinoma of upper lobe of right lung,Condition,SNOMED,S,lung
 37311684,From descendants,Acinar cell cystadenocarcinoma of lung,Condition,SNOMED,S,lung
 609077,From descendants,Primary non-small cell carcinoma of upper lobe of left lung,Condition,SNOMED,S,lung
+257503,From initial search,Primary malignant neoplasm of main bronchus,Condition,SNOMED,S,bronchus
+258375,From initial search,Overlapping malignant neoplasm of bronchus and lung,Condition,SNOMED,S,bronchus
+433973,From initial search,Primary malignant neoplasm of bronchus of left lower lobe,Condition,SNOMED,S,bronchus
+442139,From initial search,Primary malignant neoplasm of bronchus,Condition,SNOMED,S,bronchus
+443399,From initial search,Malignant tumor of bronchus,Condition,SNOMED,S,bronchus
+601154,From initial search,Primary malignant neoplasm of left main bronchus,Condition,SNOMED,S,bronchus
+601155,From initial search,Primary malignant neoplasm of right main bronchus,Condition,SNOMED,S,bronchus
+4089755,From initial search,Malignant neoplasm of lower lobe bronchus,Condition,SNOMED,S,bronchus
+4092215,From initial search,Malignant neoplasm of carina of bronchus,Condition,SNOMED,S,bronchus
+4092218,From initial search,Malignant neoplasm of middle lobe bronchus,Condition,SNOMED,S,bronchus
+4095450,From initial search,Malignant neoplasm of upper lobe bronchus,Condition,SNOMED,S,bronchus
+4151250,From initial search,"Malignant neoplasm of upper lobe, bronchus or lung",Condition,SNOMED,S,bronchus
+4157333,From initial search,Malignant neoplasm of main bronchus,Condition,SNOMED,S,bronchus
+4157454,From initial search,"Primary malignant neoplasm of lower lobe, bronchus or lung",Condition,SNOMED,S,bronchus
+4246027,From initial search,Primary malignant neoplasm of bronchus of left upper lobe,Condition,SNOMED,S,bronchus
+4246804,From initial search,Primary malignant neoplasm of bronchus of middle lobe of right lung,Condition,SNOMED,S,bronchus
+4246805,From initial search,Primary malignant neoplasm of bronchus of right upper lobe,Condition,SNOMED,S,bronchus
+4247727,From initial search,Primary malignant neoplasm of bronchus of right lower lobe,Condition,SNOMED,S,bronchus
+4294587,From initial search,Main bronchus (less than 2 cm distal to the carina) involved by direct extension of malignant neoplasm,Condition,SNOMED,S,bronchus
+35610239,From initial search,Malignant neoplasm of bronchus or lung,Condition,SNOMED,S,bronchus
+36716499,From initial search,Primary malignant neuroendocrine neoplasm of bronchus,Condition,SNOMED,S,bronchus
+37116436,From initial search,Malignant epithelial neoplasm of bronchus,Condition,SNOMED,S,bronchus
+602149,From descendants,Primary adenocarcinoma of right main bronchus,Condition,SNOMED,S,bronchus
+602159,From descendants,Primary small cell carcinoma of lower lobe of left lung,Condition,SNOMED,S,bronchus
+602160,From descendants,Primary small cell carcinoma of left main bronchus,Condition,SNOMED,S,bronchus
+602167,From descendants,Primary squamous cell carcinoma of lower lobe of right lung,Condition,SNOMED,S,bronchus
+602168,From descendants,Primary squamous cell carcinoma of right main bronchus,Condition,SNOMED,S,bronchus
+602682,From descendants,Primary large cell carcinoma of lower lobe of right lung,Condition,SNOMED,S,bronchus
+602697,From descendants,Primary squamous cell carcinoma of lower lobe of left lung,Condition,SNOMED,S,bronchus
+602698,From descendants,Primary squamous cell carcinoma of left main bronchus,Condition,SNOMED,S,bronchus
+605430,From descendants,Primary adenocarcinoma of left main bronchus,Condition,SNOMED,S,bronchus
+605445,From descendants,Primary large cell carcinoma of lower lobe of left lung,Condition,SNOMED,S,bronchus
+605476,From descendants,Primary small cell carcinoma of lower lobe of right lung,Condition,SNOMED,S,bronchus
+605477,From descendants,Primary small cell carcinoma of right main bronchus,Condition,SNOMED,S,bronchus
+609075,From descendants,Primary non-small cell carcinoma of lower lobe of left lung,Condition,SNOMED,S,bronchus
+609078,From descendants,Primary non-small cell carcinoma of lower lobe of right lung,Condition,SNOMED,S,bronchus
+1244407,From descendants,Carcinoid tumor of bronchus,Condition,SNOMED,S,bronchus
+1244512,From descendants,Bilateral primary malignant neoplasm of main bronchi,Condition,SNOMED,S,bronchus
+1244544,From descendants,Primary well-differentiated neuroendocrine tumor of bronchus,Condition,SNOMED,S,bronchus
+1244585,From descendants,Neuroendocrine neoplasm of bronchus,Condition,SNOMED,S,bronchus
+4111805,From descendants,Squamous cell carcinoma of bronchus,Condition,SNOMED,S,bronchus
+4162250,From descendants,Carcinoma of main bronchus,Condition,SNOMED,S,bronchus
+4196724,From descendants,Squamous cell carcinoma of bronchus in left lower lobe,Condition,SNOMED,S,bronchus
+4196725,From descendants,Squamous cell carcinoma of bronchus in right lower lobe,Condition,SNOMED,S,bronchus
+4197581,From descendants,Squamous cell carcinoma of bronchus in left upper lobe,Condition,SNOMED,S,bronchus
+4197582,From descendants,Squamous cell carcinoma of bronchus of middle lobe of right lung,Condition,SNOMED,S,bronchus
+4197583,From descendants,Squamous cell carcinoma of bronchus in right upper lobe,Condition,SNOMED,S,bronchus
+4246148,From descendants,Primary malignant neoplasm of right lower lobe of lung,Condition,SNOMED,S,bronchus
+4247821,From descendants,Primary malignant neoplasm of carina,Condition,SNOMED,S,bronchus
+4247832,From descendants,Primary malignant neoplasm of lower lobe of left lung,Condition,SNOMED,S,bronchus
+36712707,From descendants,Primary adenocarcinoma of lower lobe of left lung,Condition,SNOMED,S,bronchus
+36712709,From descendants,Primary adenocarcinoma of lower lobe of right lung,Condition,SNOMED,S,bronchus
+37166234,From descendants,Primary squamous cell carcinoma of bronchus,Condition,SNOMED,S,bronchus
+37166276,From descendants,Primary squamous cell carcinoma of bronchus in left lower lobe,Condition,SNOMED,S,bronchus
+37166277,From descendants,Primary squamous cell carcinoma of bronchus in left upper lobe,Condition,SNOMED,S,bronchus
+37166278,From descendants,Primary squamous cell carcinoma of bronchus in right lower lobe,Condition,SNOMED,S,bronchus
+37166279,From descendants,Primary squamous cell carcinoma of bronchus of middle lobe of right lung,Condition,SNOMED,S,bronchus
+37166280,From descendants,Primary squamous cell carcinoma of bronchus in right upper lobe,Condition,SNOMED,S,bronchus
+37166390,From descendants,Primary carcinoma of main bronchus,Condition,SNOMED,S,bronchus
+432262,From initial search,Primary malignant neoplasm of trachea,Condition,SNOMED,S,trachea
+4094874,From initial search,Malignant neoplasm of cartilage of trachea,Condition,SNOMED,S,trachea
+4095449,From initial search,Malignant neoplasm of mucosa of trachea,Condition,SNOMED,S,trachea
+4177112,From initial search,Malignant tumor of trachea,Condition,SNOMED,S,trachea
+45769098,From initial search,Primary malignant epithelial neoplasm of trachea,Condition,SNOMED,S,trachea
+4092215,From descendants,Malignant neoplasm of carina of bronchus,Condition,SNOMED,S,trachea
+4111804,From descendants,Squamous cell carcinoma of trachea,Condition,SNOMED,S,trachea
+4112736,From descendants,Adenoid cystic carcinoma of trachea,Condition,SNOMED,S,trachea
+4247821,From descendants,Primary malignant neoplasm of carina,Condition,SNOMED,S,trachea
+37165416,From descendants,Verrucous carcinoma of trachea,Condition,SNOMED,S,trachea
+37165419,From descendants,Squamous cell adenoid carcinoma of trachea,Condition,SNOMED,S,trachea
+37165420,From descendants,Spindle cell carcinoma of trachea,Condition,SNOMED,S,trachea
+37165421,From descendants,Papillary squamous cell carcinoma of trachea,Condition,SNOMED,S,trachea
+37165422,From descendants,Lymphoepithelial carcinoma of trachea,Condition,SNOMED,S,trachea
+37165423,From descendants,Clear cell squamous cell carcinoma of trachea,Condition,SNOMED,S,trachea
+37165424,From descendants,Basaloid squamous cell carcinoma of trachea,Condition,SNOMED,S,trachea
+37165557,From descendants,Adenocarcinoma of trachea,Condition,SNOMED,S,trachea
+37165672,From descendants,Undifferentiated carcinoma of trachea,Condition,SNOMED,S,trachea
+37165751,From descendants,Signet ring cell carcinoma of trachea,Condition,SNOMED,S,trachea
+37165758,From descendants,Acinar cell carcinoma of trachea,Condition,SNOMED,S,trachea
+37165769,From descendants,Giant cell carcinoma of trachea,Condition,SNOMED,S,trachea
+37165776,From descendants,Myoepithelial carcinoma of trachea,Condition,SNOMED,S,trachea
+37166233,From descendants,Primary adenoid cystic carcinoma of trachea,Condition,SNOMED,S,trachea
+37166736,From descendants,Clear cell adenocarcinoma of trachea,Condition,SNOMED,S,trachea
+37166741,From descendants,Adenosquamous carcinoma of trachea,Condition,SNOMED,S,trachea
+37166763,From descendants,Mucinous adenocarcinoma of trachea,Condition,SNOMED,S,trachea
+37166767,From descendants,Mucinous cystadenocarcinoma of trachea,Condition,SNOMED,S,trachea
+37166769,From descendants,Papillary adenocarcinoma of trachea,Condition,SNOMED,S,trachea
+37166778,From descendants,Solid carcinoma of trachea,Condition,SNOMED,S,trachea
+45768855,From descendants,Primary signet ring cell carcinoma of trachea,Condition,SNOMED,S,trachea
+45768856,From descendants,Primary myoepithelial carcinoma of trachea,Condition,SNOMED,S,trachea
+45768857,From descendants,Primary mucoepidermoid carcinoma of trachea,Condition,SNOMED,S,trachea
+45768858,From descendants,Primary salivary gland type carcinoma of trachea,Condition,SNOMED,S,trachea
+45768860,From descendants,Primary mucinous cystadenocarcinoma of trachea,Condition,SNOMED,S,trachea
+45768861,From descendants,Primary solid carcinoma of trachea,Condition,SNOMED,S,trachea
+45768862,From descendants,Primary undifferentiated carcinoma of trachea,Condition,SNOMED,S,trachea
+45768863,From descendants,Primary acinar cell carcinoma of trachea,Condition,SNOMED,S,trachea
+45768865,From descendants,Primary squamous cell carcinoma of trachea,Condition,SNOMED,S,trachea
+45768866,From descendants,Primary clear cell squamous cell carcinoma of trachea,Condition,SNOMED,S,trachea
+45768867,From descendants,Primary papillary squamous cell carcinoma of trachea,Condition,SNOMED,S,trachea
+45768868,From descendants,Primary giant cell carcinoma of trachea,Condition,SNOMED,S,trachea
+45768869,From descendants,Primary adenosquamous carcinoma of trachea,Condition,SNOMED,S,trachea
+45768870,From descendants,Primary spindle cell carcinoma of trachea,Condition,SNOMED,S,trachea
+45768933,From descendants,Primary clear cell adenocarcinoma of trachea,Condition,SNOMED,S,trachea
+45768934,From descendants,Primary papillary adenocarcinoma of trachea,Condition,SNOMED,S,trachea
+45768935,From descendants,Primary mucinous adenocarcinoma of trachea,Condition,SNOMED,S,trachea
+45768936,From descendants,Primary adenocarcinoma of trachea,Condition,SNOMED,S,trachea
+45768952,From descendants,Primary lymphoepithelial carcinoma of trachea,Condition,SNOMED,S,trachea
+45768953,From descendants,Primary squamous cell adenoid carcinoma of trachea,Condition,SNOMED,S,trachea
+45772932,From descendants,Primary basaloid squamous cell carcinoma of trachea,Condition,SNOMED,S,trachea
+45772942,From descendants,Primary verrucous carcinoma of trachea,Condition,SNOMED,S,trachea
+4311499,From initial search,Primary malignant neoplasm of respiratory tract,Condition,SNOMED,S,respiratory tract
+252840,From initial search,Primary malignant neoplasm of upper respiratory tract,Condition,SNOMED,S,respiratory tract
+40493020,From initial search,Malignant neoplasm of upper respiratory tract,Condition,SNOMED,S,respiratory tract
+4334322,From initial search,Malignant neoplasm of lower respiratory tract,Condition,SNOMED,S,respiratory tract
+35610164,From initial search,Malignant neoplasm of respiratory tract,Condition,SNOMED,S,respiratory tract
+602167,From descendants,Primary squamous cell carcinoma of lower lobe of right lung,Condition,SNOMED,S,respiratory tract
+37169046,From descendants,Malignant carcinoid tumor of left lung,Condition,SNOMED,S,respiratory tract
+45769027,From descendants,Primary myoepithelial carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45772927,From descendants,Primary carcinoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
+140046,From descendants,Primary malignant neoplasm of ethmoidal sinus,Condition,SNOMED,S,respiratory tract
+442139,From descendants,Primary malignant neoplasm of bronchus,Condition,SNOMED,S,respiratory tract
+46272955,From descendants,Primary clear cell adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+4115137,From descendants,Malignant tumor of anterior pillar of fauces,Condition,SNOMED,S,respiratory tract
+609080,From descendants,Primary non-small cell carcinoma of left lung,Condition,SNOMED,S,respiratory tract
+37166760,From descendants,Mucinous adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+36716426,From descendants,Reactive oxygen species 1 positive non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+37165753,From descendants,Spindle cell squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+4197583,From descendants,Squamous cell carcinoma of bronchus in right upper lobe,Condition,SNOMED,S,respiratory tract
+40492021,From descendants,Malignant neoplasm of lateral wall of oropharynx,Condition,SNOMED,S,respiratory tract
+42536528,From descendants,Primary malignant neuroepitheliomatous neoplasm of nasal cavity,Condition,SNOMED,S,respiratory tract
+37166775,From descendants,Pseudosarcomatous carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37166604,From descendants,Primary nonsquamous nonsmall cell neoplasm of lung,Condition,SNOMED,S,respiratory tract
+602125,From descendants,Primary squamous cell carcinoma of tonsillar pillar,Condition,SNOMED,S,respiratory tract
+4246027,From descendants,Primary malignant neoplasm of bronchus of left upper lobe,Condition,SNOMED,S,respiratory tract
+4177112,From descendants,Malignant tumor of trachea,Condition,SNOMED,S,respiratory tract
+37166745,From descendants,Adenosquamous carcinoma of lung,Condition,SNOMED,S,respiratory tract
+433973,From descendants,Primary malignant neoplasm of bronchus of left lower lobe,Condition,SNOMED,S,respiratory tract
+37166762,From descendants,Mucinous bronchiolo-alveolar carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4312567,From descendants,Primary malignant neoplasm of upper lobe of right lung,Condition,SNOMED,S,respiratory tract
+37166536,From descendants,Primary non-small cell lung carcinoma with NRG1 fusion,Condition,SNOMED,S,respiratory tract
+37165752,From descendants,Spindle cell squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768869,From descendants,Primary adenosquamous carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37165771,From descendants,Carcinoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
+4110567,From descendants,Malignant tumor of laryngeal ventricle,Condition,SNOMED,S,respiratory tract
+40492938,From descendants,Carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4110591,From descendants,Small cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4095312,From descendants,Malignant tumor of nasopharynx,Condition,SNOMED,S,respiratory tract
+4112598,From descendants,Malignant tumor of inferior surface of soft palate,Condition,SNOMED,S,respiratory tract
+45768922,From descendants,Primary pleomorphic carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45769108,From descendants,Primary squamous cell carcinoma of posterior wall of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768944,From descendants,Primary adenoid squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45773564,From descendants,Primary squamous cell carcinoma of vallecula,Condition,SNOMED,S,respiratory tract
+31509,From descendants,Primary malignant neoplasm of tonsil,Condition,SNOMED,S,respiratory tract
+4162122,From descendants,Primary malignant neoplasm of vocal cord,Condition,SNOMED,S,respiratory tract
+37165786,From descendants,Non-small cell adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165423,From descendants,Clear cell squamous cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4322387,From descendants,"Squamous cell carcinoma of lung, TNM stage 3",Condition,SNOMED,S,respiratory tract
+4197581,From descendants,Squamous cell carcinoma of bronchus in left upper lobe,Condition,SNOMED,S,respiratory tract
+609079,From descendants,Primary non-small cell carcinoma of right lung,Condition,SNOMED,S,respiratory tract
+44784247,From descendants,Malignant melanoma of maxillary sinus,Condition,SNOMED,S,respiratory tract
+37166782,From descendants,Squamous cell carcinoma of maxillary sinus,Condition,SNOMED,S,respiratory tract
+45768919,From descendants,Primary basaloid squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+432262,From descendants,Primary malignant neoplasm of trachea,Condition,SNOMED,S,respiratory tract
+4309248,From descendants,Squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+4095447,From descendants,Malignant neoplasm of thyroid cartilage,Condition,SNOMED,S,respiratory tract
+40488898,From descendants,Malignant epithelial neoplasm of oropharynx,Condition,SNOMED,S,respiratory tract
+37166761,From descendants,Mucinous adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37166520,From descendants,Primary acinar cell cystadenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+4089524,From descendants,Malignant neoplasm of base of tongue dorsal surface,Condition,SNOMED,S,respiratory tract
+1244585,From descendants,Neuroendocrine neoplasm of bronchus,Condition,SNOMED,S,respiratory tract
+37165774,From descendants,Myoepithelial carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+605248,From descendants,Primary squamous cell carcinomas of anterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+4180783,From descendants,Malignant tumor of lingual tonsil,Condition,SNOMED,S,respiratory tract
+4155170,From descendants,Primary malignant neoplasm of laryngeal aspect of aryepiglottic fold,Condition,SNOMED,S,respiratory tract
+40490009,From descendants,Transglottic malignant neoplasm of larynx,Condition,SNOMED,S,respiratory tract
+37165768,From descendants,Giant cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+4314040,From descendants,"Large cell carcinoma of lung, TNM stage 1",Condition,SNOMED,S,respiratory tract
+45768916,From descendants,Primary adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+602682,From descendants,Primary large cell carcinoma of lower lobe of right lung,Condition,SNOMED,S,respiratory tract
+4155293,From descendants,Carcinoma of lower lobe of lung,Condition,SNOMED,S,respiratory tract
+45769097,From descendants,Pleuropulmonary blastoma type III,Condition,SNOMED,S,respiratory tract
+609076,From descendants,Primary non-small cell carcinoma of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+45771033,From descendants,Primary squamous cell carcinoma of hypopharyngeal aspect of aryepiglottic fold,Condition,SNOMED,S,respiratory tract
+4181347,From descendants,Malignant tumor of maxillary sinus,Condition,SNOMED,S,respiratory tract
+37018947,From descendants,Primary squamous cell carcinoma of palatine tonsil,Condition,SNOMED,S,respiratory tract
+443388,From descendants,Malignant tumor of lung,Condition,SNOMED,S,respiratory tract
+37165770,From descendants,Giant cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+37166742,From descendants,Adenosquamous carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4314156,From descendants,"Adenocarcinoma of lung, stage IV",Condition,SNOMED,S,respiratory tract
+619301,From descendants,Bilateral primary malignant neoplasm of lungs,Condition,SNOMED,S,respiratory tract
+37166615,From descendants,Primary epidermal growth factor receptor negative non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+37165772,From descendants,Carcinosarcoma of lung,Condition,SNOMED,S,respiratory tract
+45769034,From descendants,Primary mucinous cystadenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+4089647,From descendants,Malignant tumor of adenoid,Condition,SNOMED,S,respiratory tract
+4110434,From descendants,Malignant tumor of inferior turbinate,Condition,SNOMED,S,respiratory tract
+605199,From descendants,Primary salivary gland type neoplasm of nasopharynx,Condition,SNOMED,S,respiratory tract
+37165759,From descendants,Acinar cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+601153,From descendants,Kaposi sarcoma of right lung,Condition,SNOMED,S,respiratory tract
+45772939,From descendants,Primary mucoepidermoid carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165445,From descendants,Squamous cell carcinoma of laryngeal cartilage,Condition,SNOMED,S,respiratory tract
+608934,From descendants,Bilateral Kaposi sarcoma of lungs,Condition,SNOMED,S,respiratory tract
+602169,From descendants,Primary squamous cell carcinoma of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+4172359,From descendants,Carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+440044,From descendants,Overlapping malignant neoplasm of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768830,From descendants,Primary adenocarcinoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
+45768945,From descendants,Primary adenosquamous carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768865,From descendants,Primary squamous cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+44784245,From descendants,Malignant melanoma of ethmoid sinus,Condition,SNOMED,S,respiratory tract
+37167567,From descendants,Primary carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+439739,From descendants,Primary malignant neoplasm of posterior wall of oropharynx,Condition,SNOMED,S,respiratory tract
+4181342,From descendants,Malignant tumor of hypopharynx,Condition,SNOMED,S,respiratory tract
+37116436,From descendants,Malignant epithelial neoplasm of bronchus,Condition,SNOMED,S,respiratory tract
+602171,From descendants,Primary squamous cell carcinoma of upper lobe of right lung,Condition,SNOMED,S,respiratory tract
+45768841,From descendants,Malignant melanoma of frontal sinus,Condition,SNOMED,S,respiratory tract
+37166235,From descendants,Primary large cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45766129,From descendants,Non-small cell lung cancer with mutation in epidermal growth factor receptor,Condition,SNOMED,S,respiratory tract
+4181348,From descendants,Malignant tumor of frontal sinus,Condition,SNOMED,S,respiratory tract
+137800,From descendants,Primary malignant neoplasm of maxillary sinus,Condition,SNOMED,S,respiratory tract
+45768883,From descendants,Primary small cell non-keratinizing squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37166787,From descendants,Undifferentiated carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45769096,From descendants,Pleuropulmonary blastoma type II,Condition,SNOMED,S,respiratory tract
+45769056,From descendants,Neuroendocrine neoplasm of larynx,Condition,SNOMED,S,respiratory tract
+37166772,From descendants,Oncocytic carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37165562,From descendants,Adenocarcinoma of maxillary sinus,Condition,SNOMED,S,respiratory tract
+45768877,From descendants,Primary clear cell adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45771013,From descendants,Primary carcinoma of accessory sinus,Condition,SNOMED,S,respiratory tract
+4091932,From descendants,"Malignant neoplasm of epiglottis, free border",Condition,SNOMED,S,respiratory tract
+4208307,From descendants,Nonsquamous nonsmall cell neoplasm of lung,Condition,SNOMED,S,respiratory tract
+37117762,From descendants,Primary squamous cell carcinoma of pharynx,Condition,SNOMED,S,respiratory tract
+36716610,From descendants,Primary squamous cell carcinoma of base of tongue,Condition,SNOMED,S,respiratory tract
+257513,From descendants,Carcinoid tumor of lung,Condition,SNOMED,S,respiratory tract
+37165428,From descendants,Papillary squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37166790,From descendants,Infiltrating duct carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45769123,From descendants,Nonkeratinizing carcinoma of the nasopharynx,Condition,SNOMED,S,respiratory tract
+4092214,From descendants,Malignant neoplasm of cuneiform cartilage,Condition,SNOMED,S,respiratory tract
+1244176,From descendants,Right primary malignant olfactory neuroblastoma,Condition,SNOMED,S,respiratory tract
+4307118,From descendants,"Large cell carcinoma of lung, TNM stage 2",Condition,SNOMED,S,respiratory tract
+4095446,From descendants,Malignant neoplasm of cricoid cartilage,Condition,SNOMED,S,respiratory tract
+37016571,From descendants,Basal cell carcinoma of naris,Condition,SNOMED,S,respiratory tract
+438367,From descendants,Primary malignant neoplasm of nasal cavity,Condition,SNOMED,S,respiratory tract
+4111804,From descendants,Squamous cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37165416,From descendants,Verrucous carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166739,From descendants,Carcinoma of frontal sinus,Condition,SNOMED,S,respiratory tract
+37166551,From descendants,Primary adenoid squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+37110032,From descendants,Malignant neoplasm of upper lobe of left lung,Condition,SNOMED,S,respiratory tract
+37166234,From descendants,Primary squamous cell carcinoma of bronchus,Condition,SNOMED,S,respiratory tract
+37166608,From descendants,Primary non-small cell lung cancer without mutation in epidermal growth factor receptor,Condition,SNOMED,S,respiratory tract
+37165761,From descendants,Basaloid squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+37165756,From descendants,Pleomorphic carcinoma of lung,Condition,SNOMED,S,respiratory tract
+1244175,From descendants,Left primary malignant olfactory neuroblastoma,Condition,SNOMED,S,respiratory tract
+37165760,From descendants,Acinar cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4247831,From descendants,Primary malignant neoplasm of laryngeal surface of epiglottis,Condition,SNOMED,S,respiratory tract
+37165422,From descendants,Lymphoepithelial carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4314832,From descendants,"Adenocarcinoma of lung, stage II",Condition,SNOMED,S,respiratory tract
+605241,From descendants,Primary squamous cell carcinoma of superior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+765056,From descendants,Malignant carcinoid tumor of lung,Condition,SNOMED,S,respiratory tract
+37166607,From descendants,Primary non-small cell lung cancer with mutation in epidermal growth factor receptor,Condition,SNOMED,S,respiratory tract
+432833,From descendants,Primary malignant neoplasm of oropharynx,Condition,SNOMED,S,respiratory tract
+37166740,From descendants,Adenosquamous carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+605245,From descendants,Basaloid squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+36684473,From descendants,Primary malignant neoplasm of nasopharynx,Condition,SNOMED,S,respiratory tract
+4112736,From descendants,Adenoid cystic carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45771012,From descendants,Primary adenocarcinoma of maxillary sinus,Condition,SNOMED,S,respiratory tract
+4095449,From descendants,Malignant neoplasm of mucosa of trachea,Condition,SNOMED,S,respiratory tract
+45768929,From descendants,Primary salivary gland type carcinoma of lung,Condition,SNOMED,S,respiratory tract
+3655852,From descendants,Papillary squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+37165758,From descendants,Acinar cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45768927,From descendants,Primary myoepithelial carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165564,From descendants,Adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+436922,From descendants,Primary malignant neoplasm of postcricoid region,Condition,SNOMED,S,respiratory tract
+37166792,From descendants,Lymphoepithelial carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+37166743,From descendants,Adenosquamous carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+4116339,From descendants,Malignant tumor of posterior wall of hypopharynx,Condition,SNOMED,S,respiratory tract
+37166771,From descendants,Papillary adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+45771018,From descendants,Primary adenosquamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+4110705,From descendants,Squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37166809,From descendants,Salivary gland type carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165757,From descendants,Polymorphous low grade adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37166730,From descendants,Adenoid squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+4247821,From descendants,Primary malignant neoplasm of carina,Condition,SNOMED,S,respiratory tract
+37175216,From descendants,Malignant carcinoid tumor of right lung,Condition,SNOMED,S,respiratory tract
+45768928,From descendants,Primary adenoid cystic carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4311479,From descendants,Primary malignant neoplasm of hypopharyngeal aspect of interarytenoid fold,Condition,SNOMED,S,respiratory tract
+37174197,From descendants,Primary undifferentiated carcinoma of superior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768894,From descendants,Primary spindle cell squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+45768866,From descendants,Primary clear cell squamous cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+602159,From descendants,Primary small cell carcinoma of lower lobe of left lung,Condition,SNOMED,S,respiratory tract
+45768951,From descendants,Primary squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+37165750,From descendants,Signet ring cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4181339,From descendants,Malignant tumor of tonsil,Condition,SNOMED,S,respiratory tract
+45772928,From descendants,Primary lymphoepithelial carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+4177110,From descendants,Malignant tumor of sphenoid sinus,Condition,SNOMED,S,respiratory tract
+37166764,From descendants,Mucoepidermoid carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37166748,From descendants,Cystadenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+36712708,From descendants,Primary adenocarcinoma of upper lobe of left lung,Condition,SNOMED,S,respiratory tract
+4177102,From descendants,Malignant tumor of vallecula,Condition,SNOMED,S,respiratory tract
+45768861,From descendants,Primary solid carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166795,From descendants,Mixed subtype adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+441223,From descendants,Primary malignant neoplasm of superior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+619300,From descendants,Primary malignant neoplasm of right lung,Condition,SNOMED,S,respiratory tract
+4162136,From descendants,Carcinoma of supraglottis,Condition,SNOMED,S,respiratory tract
+45769033,From descendants,Neuroendocrine neoplasm of lung,Condition,SNOMED,S,respiratory tract
+37166780,From descendants,Solid carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165559,From descendants,Adenocarcinoma of accessory sinus,Condition,SNOMED,S,respiratory tract
+37166337,From descendants,Primary nonkeratinizing carcinoma of the nasopharynx,Condition,SNOMED,S,respiratory tract
+37165672,From descendants,Undifferentiated carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45769094,From descendants,Pleuropulmonary blastoma,Condition,SNOMED,S,respiratory tract
+4089755,From descendants,Malignant neoplasm of lower lobe bronchus,Condition,SNOMED,S,respiratory tract
+4162250,From descendants,Carcinoma of main bronchus,Condition,SNOMED,S,respiratory tract
+4110587,From descendants,Malignant tumor of lung parenchyma,Condition,SNOMED,S,respiratory tract
+37167517,From descendants,Primary small cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37166307,From descendants,Primary tonsil carcinoma,Condition,SNOMED,S,respiratory tract
+37166738,From descendants,Carcinoma of ethmoidal sinus,Condition,SNOMED,S,respiratory tract
+605821,From descendants,Non-small cell lung carcinoma with NRG1 fusion,Condition,SNOMED,S,respiratory tract
+4306965,From descendants,Olfactory neuroblastoma,Condition,SNOMED,S,respiratory tract
+1244169,From descendants,Primary large cell carcinoma of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+608925,From descendants,Primary small cell carcinoma of right lung,Condition,SNOMED,S,respiratory tract
+37165776,From descendants,Myoepithelial carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+605477,From descendants,Primary small cell carcinoma of right main bronchus,Condition,SNOMED,S,respiratory tract
+37169847,From descendants,Squamous cell carcinoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
+37166279,From descendants,Primary squamous cell carcinoma of bronchus of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+605230,From descendants,Adenoid squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+37166783,From descendants,Squamous cell carcinoma of postcricoid region,Condition,SNOMED,S,respiratory tract
+45769017,From descendants,Primary squamous cell carcinoma of supraglottis,Condition,SNOMED,S,respiratory tract
+4314172,From descendants,"Non-small cell carcinoma of lung, TNM stage 2",Condition,SNOMED,S,respiratory tract
+37165426,From descendants,Squamous cell carcinoma of lateral wall of oropharynx,Condition,SNOMED,S,respiratory tract
+4177104,From descendants,Malignant tumor of postcricoid region,Condition,SNOMED,S,respiratory tract
+136639,From descendants,Primary malignant neoplasm of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
+45769018,From descendants,Primary squamous cell carcinoma of subglottis,Condition,SNOMED,S,respiratory tract
+45768943,From descendants,Primary undifferentiated carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+4115276,From descendants,Non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+4092215,From descendants,Malignant neoplasm of carina of bronchus,Condition,SNOMED,S,respiratory tract
+45768879,From descendants,Primary fetal adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+4157454,From descendants,"Primary malignant neoplasm of lower lobe, bronchus or lung",Condition,SNOMED,S,respiratory tract
+4246148,From descendants,Primary malignant neoplasm of right lower lobe of lung,Condition,SNOMED,S,respiratory tract
+37166305,From descendants,Primary carcinoma of base of tongue,Condition,SNOMED,S,respiratory tract
+254583,From descendants,Kaposi's sarcoma of lung,Condition,SNOMED,S,respiratory tract
+45768870,From descendants,Primary spindle cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166577,From descendants,Primary non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+4181486,From descendants,Malignant tumor of nasal sinuses,Condition,SNOMED,S,respiratory tract
+37166236,From descendants,Primary giant cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165764,From descendants,Basaloid carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37166779,From descendants,Small cell non-keratinizing squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165430,From descendants,Spindle cell squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+1244544,From descendants,Primary well-differentiated neuroendocrine tumor of bronchus,Condition,SNOMED,S,respiratory tract
+4178978,From descendants,Malignant tumor of aryepiglottic fold - laryngeal aspect,Condition,SNOMED,S,respiratory tract
+37166776,From descendants,Papillary squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+45769098,From descendants,Primary malignant epithelial neoplasm of trachea,Condition,SNOMED,S,respiratory tract
+438692,From descendants,Primary malignant neoplasm of lateral wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+45769023,From descendants,Primary spindle cell squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4168069,From descendants,Carcinoma of tongue base - dorsal surface,Condition,SNOMED,S,respiratory tract
+45773563,From descendants,Primary squamous cell carcinoma of ethmoidal sinus,Condition,SNOMED,S,respiratory tract
+37165775,From descendants,Myoepithelial carcinoma of lung,Condition,SNOMED,S,respiratory tract
+36715799,From descendants,Primary adenocarcinoma of nasal cavity,Condition,SNOMED,S,respiratory tract
+4094850,From descendants,Malignant neoplasm of posterior pharynx,Condition,SNOMED,S,respiratory tract
+37166312,From descendants,Primary keratinizing squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+37166759,From descendants,Clear cell squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+258375,From descendants,Overlapping malignant neoplasm of bronchus and lung,Condition,SNOMED,S,respiratory tract
+36715837,From descendants,Primary undifferentiated carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4311997,From descendants,"Non-small cell carcinoma of lung, TNM stage 3",Condition,SNOMED,S,respiratory tract
+37166769,From descendants,Papillary adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166383,From descendants,Primary carcinoma of glottis,Condition,SNOMED,S,respiratory tract
+44783848,From descendants,Malignant melanoma of palatine arch,Condition,SNOMED,S,respiratory tract
+4095450,From descendants,Malignant neoplasm of upper lobe bronchus,Condition,SNOMED,S,respiratory tract
+40486201,From descendants,Nasopharyngeal carcinoma,Condition,SNOMED,S,respiratory tract
+46271011,From descendants,Malignant neoplasm of superior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+37166778,From descendants,Solid carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166386,From descendants,Primary carcinoma of supraglottis,Condition,SNOMED,S,respiratory tract
+4110590,From descendants,Giant cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45768948,From descendants,Primary spindle cell squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+602168,From descendants,Primary squamous cell carcinoma of right main bronchus,Condition,SNOMED,S,respiratory tract
+4162999,From descendants,Carcinoma of vocal cord,Condition,SNOMED,S,respiratory tract
+4112581,From descendants,Carcinoma of lingual tonsil,Condition,SNOMED,S,respiratory tract
+45768874,From descendants,Primary polymorphous low grade adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4246922,From descendants,Primary malignant neoplasm of epiglottis,Condition,SNOMED,S,respiratory tract
+602698,From descendants,Primary squamous cell carcinoma of left main bronchus,Condition,SNOMED,S,respiratory tract
+45768936,From descendants,Primary adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45771026,From descendants,Primary salivary gland-type tumor of oropharynx,Condition,SNOMED,S,respiratory tract
+37174195,From descendants,Primary undifferentiated carcinoma of lateral wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+37165673,From descendants,Undifferentiated carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4246225,From descendants,Primary malignant neoplasm of septum of nose,Condition,SNOMED,S,respiratory tract
+443399,From descendants,Malignant tumor of bronchus,Condition,SNOMED,S,respiratory tract
+439746,From descendants,Primary malignant neoplasm of hypopharynx,Condition,SNOMED,S,respiratory tract
+4308479,From descendants,"Non-small cell carcinoma of lung, TNM stage 4",Condition,SNOMED,S,respiratory tract
+1245470,From descendants,Malignant neuroendocrine neoplasm of nasal cavity,Condition,SNOMED,S,respiratory tract
+4306501,From descendants,Undifferentiated carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768884,From descendants,Primary acinar cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165773,From descendants,Epithelial-myoepithelial carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4110562,From descendants,Malignant tumor of posterior commissure,Condition,SNOMED,S,respiratory tract
+45768882,From descendants,Primary mucoepidermoid carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768934,From descendants,Primary papillary adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4110706,From descendants,Pancoast tumor,Condition,SNOMED,S,respiratory tract
+36712709,From descendants,Primary adenocarcinoma of lower lobe of right lung,Condition,SNOMED,S,respiratory tract
+4180788,From descendants,Malignant tumor of tonsillar fossa,Condition,SNOMED,S,respiratory tract
+1244550,From descendants,Primary well-differentiated neuroendocrine tumor of lung,Condition,SNOMED,S,respiratory tract
+37166189,From descendants,Primary carcinoma of tongue base - dorsal surface,Condition,SNOMED,S,respiratory tract
+4095313,From descendants,Malignant tumor of anterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+37166733,From descendants,Adenoid squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+605476,From descendants,Primary small cell carcinoma of lower lobe of right lung,Condition,SNOMED,S,respiratory tract
+602163,From descendants,Primary squamous cell carcinoma of upper lobe of left lung,Condition,SNOMED,S,respiratory tract
+45768977,From descendants,Primary squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+37174194,From descendants,Primary undifferentiated carcinoma of anterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+45769091,From descendants,Primary squamous cell carcinoma of glottis,Condition,SNOMED,S,respiratory tract
+132258,From descendants,Primary malignant neoplasm of frontal sinus,Condition,SNOMED,S,respiratory tract
+37166390,From descendants,Primary carcinoma of main bronchus,Condition,SNOMED,S,respiratory tract
+37165421,From descendants,Papillary squamous cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+36717017,From descendants,Primary adenocarcinoma of upper lobe of right lung,Condition,SNOMED,S,respiratory tract
+4311501,From descendants,Primary malignant neoplasm of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+37166808,From descendants,Salivary gland type carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+440345,From descendants,Primary malignant neoplasm of lateral wall of oropharynx,Condition,SNOMED,S,respiratory tract
+4111807,From descendants,Epithelioid hemangioendothelioma of lung,Condition,SNOMED,S,respiratory tract
+4177111,From descendants,Malignant tumor of subglottis,Condition,SNOMED,S,respiratory tract
+45768950,From descendants,Primary lymphoepithelial carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+4092216,From descendants,Malignant neoplasm of upper lobe of lung,Condition,SNOMED,S,respiratory tract
+4180910,From descendants,Malignant tumor of vocal cord,Condition,SNOMED,S,respiratory tract
+44782582,From descendants,Keratinizing squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+37166238,From descendants,Primary squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+258369,From descendants,Primary malignant neoplasm of lung,Condition,SNOMED,S,respiratory tract
+36715835,From descendants,Primary squamous cell carcinoma of overlapping sites of accessory sinuses,Condition,SNOMED,S,respiratory tract
+36712981,From descendants,Adenocarcinoma of right lung,Condition,SNOMED,S,respiratory tract
+605430,From descendants,Primary adenocarcinoma of left main bronchus,Condition,SNOMED,S,respiratory tract
+601151,From descendants,Kaposi sarcoma of left lung,Condition,SNOMED,S,respiratory tract
+37166576,From descendants,Primary epithelioid hemangioendothelioma of lung,Condition,SNOMED,S,respiratory tract
+37166233,From descendants,Primary adenoid cystic carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166601,From descendants,Primary squamous non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+619299,From descendants,Primary malignant neoplasm of left lung,Condition,SNOMED,S,respiratory tract
+45768895,From descendants,Primary basaloid carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+45768920,From descendants,Primary undifferentiated carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37166749,From descendants,Squamous cell carcinoma of ethmoidal sinus,Condition,SNOMED,S,respiratory tract
+37166766,From descendants,Mucoepidermoid carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+4110566,From descendants,Malignant tumor of infrahyoid epiglottis,Condition,SNOMED,S,respiratory tract
+37166793,From descendants,Lymphoepithelial carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45768952,From descendants,Primary lymphoepithelial carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+36716941,From descendants,Primary squamous cell carcinoma of nasal cavity,Condition,SNOMED,S,respiratory tract
+45768840,From descendants,Primary squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+602696,From descendants,Primary small cell carcinoma of upper lobe of right lung,Condition,SNOMED,S,respiratory tract
+45768940,From descendants,Primary adenocarcinoma of subglottis,Condition,SNOMED,S,respiratory tract
+1244407,From descendants,Carcinoid tumor of bronchus,Condition,SNOMED,S,respiratory tract
+37165767,From descendants,Carcinoma ex pleomorphic adenoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37164177,From descendants,Primary squamous cell carcinoma of nasal cavity and paranasal sinus,Condition,SNOMED,S,respiratory tract
+45772941,From descendants,Primary basaloid squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+37174196,From descendants,Primary undifferentiated carcinoma of posterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+37166735,From descendants,Clear cell adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+4089655,From descendants,Malignant tumor of Waldeyer's ring,Condition,SNOMED,S,respiratory tract
+45768881,From descendants,Primary adenosquamous carcinoma of lung,Condition,SNOMED,S,respiratory tract
+605252,From descendants,Primary squamous cell carcinoma of overlapping sites of nasopharynx,Condition,SNOMED,S,respiratory tract
+4143825,From descendants,Epidermal growth factor receptor positive non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+45768873,From descendants,Primary basal cell adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45768833,From descendants,Primary carcinoma of frontal sinus,Condition,SNOMED,S,respiratory tract
+36716501,From descendants,Primary malignant epithelial neoplasm of nasopharynx,Condition,SNOMED,S,respiratory tract
+37395650,From descendants,"Primary small cell malignant neoplasm of lung, TNM stage 3",Condition,SNOMED,S,respiratory tract
+22839,From descendants,Overlapping malignant neoplasm of larynx,Condition,SNOMED,S,respiratory tract
+436643,From descendants,Primary malignant neoplasm of anterior aspect of epiglottis,Condition,SNOMED,S,respiratory tract
+4312032,From descendants,Primary malignant neoplasm of vestibule of nose,Condition,SNOMED,S,respiratory tract
+37161544,From descendants,Malignant neoplasm of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+45768876,From descendants,Primary mucinous adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+257503,From descendants,Primary malignant neoplasm of main bronchus,Condition,SNOMED,S,respiratory tract
+45772942,From descendants,Primary verrucous carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166751,From descendants,Squamous cell carcinoma of frontal sinus,Condition,SNOMED,S,respiratory tract
+4246804,From descendants,Primary malignant neoplasm of bronchus of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+261514,From descendants,Primary malignant neoplasm of supraglottis,Condition,SNOMED,S,respiratory tract
+37167584,From descendants,Primary olfactory neuroblastoma,Condition,SNOMED,S,respiratory tract
+45769035,From descendants,Primary carcinosarcoma of lung,Condition,SNOMED,S,respiratory tract
+4095025,From descendants,"Alpha heavy chain disease, respiratory form",Condition,SNOMED,S,respiratory tract
+4246793,From descendants,Primary malignant neoplasm of adenoid,Condition,SNOMED,S,respiratory tract
+4181349,From descendants,Malignant tumor of laryngeal cartilage,Condition,SNOMED,S,respiratory tract
+45768832,From descendants,Primary carcinoma of maxillary sinus,Condition,SNOMED,S,respiratory tract
+4313200,From descendants,"Squamous cell carcinoma of lung, TNM stage 2",Condition,SNOMED,S,respiratory tract
+45769031,From descendants,Primary mucoepidermoid carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37166736,From descendants,Clear cell adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4312768,From descendants,"Large cell carcinoma of lung, TNM stage 3",Condition,SNOMED,S,respiratory tract
+4089646,From descendants,Malignant neoplasm of junctional region of epiglottis,Condition,SNOMED,S,respiratory tract
+434577,From descendants,Primary malignant neoplasm of hypopharyngeal aspect of aryepiglottic fold,Condition,SNOMED,S,respiratory tract
+36712707,From descendants,Primary adenocarcinoma of lower lobe of left lung,Condition,SNOMED,S,respiratory tract
+37166328,From descendants,Primary squamous cell carcinoma of right lung,Condition,SNOMED,S,respiratory tract
+4313751,From descendants,"Large cell carcinoma of lung, TNM stage 4",Condition,SNOMED,S,respiratory tract
+45768921,From descendants,Primary spindle cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+435190,From descendants,Primary malignant neoplasm of pyriform sinus,Condition,SNOMED,S,respiratory tract
+609081,From descendants,Primary non-small cell carcinoma of upper lobe of right lung,Condition,SNOMED,S,respiratory tract
+4312033,From descendants,Primary malignant neoplasm of vomer,Condition,SNOMED,S,respiratory tract
+605815,From descendants,Carcinoma of pyriform fossa,Condition,SNOMED,S,respiratory tract
+37166605,From descendants,Primary reactive oxygen species 1 positive non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+37166773,From descendants,Non-mucinous bronchiolo-alveolar carcinoma of lung,Condition,SNOMED,S,respiratory tract
+432558,From descendants,Overlapping malignant neoplasm of nasopharynx,Condition,SNOMED,S,respiratory tract
+37166734,From descendants,Clear cell adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4116237,From descendants,Malignant tumor of nasal cavity and nasopharynx,Condition,SNOMED,S,respiratory tract
+4140471,From descendants,Epidermal growth factor receptor negative non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+4177109,From descendants,Malignant tumor of ethmoid sinus,Condition,SNOMED,S,respiratory tract
+45768878,From descendants,Primary adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45768855,From descendants,Primary signet ring cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4002498,From descendants,Overlapping malignant neoplasm of tonsil,Condition,SNOMED,S,respiratory tract
+602695,From descendants,Primary small cell carcinoma of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+4155169,From descendants,Primary malignant neoplasm of false vocal cord,Condition,SNOMED,S,respiratory tract
+4178968,From descendants,Malignant tumor of larynx,Condition,SNOMED,S,respiratory tract
+4111022,From descendants,Malignant tumor of lateral nasal wall,Condition,SNOMED,S,respiratory tract
+36716499,From descendants,Primary malignant neuroendocrine neoplasm of bronchus,Condition,SNOMED,S,respiratory tract
+26052,From descendants,Primary malignant neoplasm of larynx,Condition,SNOMED,S,respiratory tract
+37166384,From descendants,Primary carcinoma of subglottis,Condition,SNOMED,S,respiratory tract
+4247727,From descendants,Primary malignant neoplasm of bronchus of right lower lobe,Condition,SNOMED,S,respiratory tract
+37395649,From descendants,"Primary small cell malignant neoplasm of lung, TNM stage 2",Condition,SNOMED,S,respiratory tract
+37166554,From descendants,Primary basaloid squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+4311452,From descendants,"Adenocarcinoma of lung, stage III",Condition,SNOMED,S,respiratory tract
+37110034,From descendants,Malignant neoplasm of right upper lobe of lung,Condition,SNOMED,S,respiratory tract
+437226,From descendants,Malignant neoplasm of nasopharyngeal wall,Condition,SNOMED,S,respiratory tract
+37165765,From descendants,Basaloid carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+37166277,From descendants,Primary squamous cell carcinoma of bronchus in left upper lobe,Condition,SNOMED,S,respiratory tract
+45768860,From descendants,Primary mucinous cystadenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4177237,From descendants,Malignant tumor of false cord,Condition,SNOMED,S,respiratory tract
+45768985,From descendants,Primary adenoid cystic carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768831,From descendants,Primary carcinoma of ethmoidal sinus,Condition,SNOMED,S,respiratory tract
+260336,From descendants,Primary malignant neoplasm of glottis,Condition,SNOMED,S,respiratory tract
+36715836,From descendants,Primary adenocarcinoma of overlapping sites of accessory sinuses,Condition,SNOMED,S,respiratory tract
+37166192,From descendants,Primary carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+37165555,From descendants,Adenocarcinoma of frontal sinus,Condition,SNOMED,S,respiratory tract
+440036,From descendants,Primary malignant neoplasm of junctional zone of tongue,Condition,SNOMED,S,respiratory tract
+45768947,From descendants,Primary giant cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768930,From descendants,Primary mixed mucinous and non-mucinous bronchiolo-alveolar carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4307152,From descendants,Adenocarcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+4112738,From descendants,Adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+4094722,From descendants,Malignant tumor of posterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+37165427,From descendants,Basaloid squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37110031,From descendants,Malignant neoplasm of lower lobe of right lung,Condition,SNOMED,S,respiratory tract
+37165424,From descendants,Basaloid squamous cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45768885,From descendants,Primary solid carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45768867,From descendants,Primary papillary squamous cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166770,From descendants,Papillary adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45769089,From descendants,Primary basaloid squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+45768858,From descendants,Primary salivary gland type carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37165675,From descendants,Spindle cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4095309,From descendants,Malignant neoplasm of glossoepiglottic fold,Condition,SNOMED,S,respiratory tract
+4312274,From descendants,"Squamous cell carcinoma of lung, TNM stage 4",Condition,SNOMED,S,respiratory tract
+37166642,From descendants,Primary Pancoast tumor,Condition,SNOMED,S,respiratory tract
+605246,From descendants,Squamous cell carcinoma of posterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768893,From descendants,Primary undifferentiated carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+37109576,From descendants,Squamous non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+45768942,From descendants,Primary papillary squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768978,From descendants,Overlapping squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45769121,From descendants,Primary squamous cell carcinoma of postcricoid region,Condition,SNOMED,S,respiratory tract
+37166565,From descendants,Primary overlapping malignant neoplasm of nasopharynx,Condition,SNOMED,S,respiratory tract
+4177243,From descendants,Malignant tumor of pharynx,Condition,SNOMED,S,respiratory tract
+4256777,From descendants,Squamous cell carcinoma of pharynx,Condition,SNOMED,S,respiratory tract
+602697,From descendants,Primary squamous cell carcinoma of lower lobe of left lung,Condition,SNOMED,S,respiratory tract
+37166789,From descendants,Fetal adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+45768838,From descendants,Primary squamous cell carcinoma of frontal sinus,Condition,SNOMED,S,respiratory tract
+602160,From descendants,Primary small cell carcinoma of left main bronchus,Condition,SNOMED,S,respiratory tract
+36686538,From descendants,Large cell carcinoma of right lung,Condition,SNOMED,S,respiratory tract
+605185,From descendants,Primary lymphoepithelial carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768856,From descendants,Primary myoepithelial carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4258703,From descendants,Primary squamous cell carcinoma of naris,Condition,SNOMED,S,respiratory tract
+4308784,From descendants,"Adenocarcinoma of lung, stage I",Condition,SNOMED,S,respiratory tract
+44783851,From descendants,Undifferentiated nonkeratinizing carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768862,From descendants,Primary undifferentiated carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4094874,From descendants,Malignant neoplasm of cartilage of trachea,Condition,SNOMED,S,respiratory tract
+37165560,From descendants,Adenocarcinoma of ethmoidal sinus,Condition,SNOMED,S,respiratory tract
+435474,From descendants,Primary malignant neoplasm of posterior hypopharyngeal wall,Condition,SNOMED,S,respiratory tract
+45771014,From descendants,Malignant melanoma of accessory sinus,Condition,SNOMED,S,respiratory tract
+45768933,From descendants,Primary clear cell adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166794,From descendants,Mixed mucinous and non-mucinous bronchiolo-alveolar carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45768898,From descendants,Primary verrucous carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+45768886,From descendants,Primary papillary adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165751,From descendants,Signet ring cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45769058,From descendants,Primary salivary gland type carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+4095442,From descendants,"Malignant neoplasm of nasal cavities, middle ear and accessory sinuses",Condition,SNOMED,S,respiratory tract
+609075,From descendants,Primary non-small cell carcinoma of lower lobe of left lung,Condition,SNOMED,S,respiratory tract
+761907,From descendants,Primary adenocarcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+4111805,From descendants,Squamous cell carcinoma of bronchus,Condition,SNOMED,S,respiratory tract
+605446,From descendants,Primary large cell carcinoma of upper lobe of left lung,Condition,SNOMED,S,respiratory tract
+602107,From descendants,Primary squamous cell carcinoma of aryepiglottic fold,Condition,SNOMED,S,respiratory tract
+37395651,From descendants,"Primary small cell malignant neoplasm of lung, TNM stage 4",Condition,SNOMED,S,respiratory tract
+45768896,From descendants,Primary adenoid squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+605250,From descendants,Primary squamous cell carcinoma of lateral wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+36713366,From descendants,Extensive stage primary small cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+605208,From descendants,Primary papillary adenocarcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+36712816,From descendants,Squamous cell carcinoma of right lung,Condition,SNOMED,S,respiratory tract
+37165766,From descendants,Basaloid squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45772933,From descendants,Primary signet ring cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4112593,From descendants,Malignant tumor of middle turbinate,Condition,SNOMED,S,respiratory tract
+602161,From descendants,Primary small cell carcinoma of upper lobe of left lung,Condition,SNOMED,S,respiratory tract
+601155,From descendants,Primary malignant neoplasm of right main bronchus,Condition,SNOMED,S,respiratory tract
+37395648,From descendants,"Primary small cell malignant neoplasm of lung, TNM stage 1",Condition,SNOMED,S,respiratory tract
+45769059,From descendants,Overlapping squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45769022,From descendants,Primary papillary squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37110033,From descendants,Malignant neoplasm of lower lobe of left lung,Condition,SNOMED,S,respiratory tract
+45769029,From descendants,Primary epithelial-myoepithelial carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4196724,From descendants,Squamous cell carcinoma of bronchus in left lower lobe,Condition,SNOMED,S,respiratory tract
+4094721,From descendants,Malignant tumor of posterior wall of oropharynx,Condition,SNOMED,S,respiratory tract
+45768949,From descendants,Primary verrucous carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+602150,From descendants,Primary adenocarcinoma of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+433709,From descendants,Primary malignant neoplasm of tonsillar fossa,Condition,SNOMED,S,respiratory tract
+45768900,From descendants,Overlapping squamous cell carcinoma of laryngeal cartilage,Condition,SNOMED,S,respiratory tract
+45769122,From descendants,Primary squamous cell carcinoma of pyriform sinus,Condition,SNOMED,S,respiratory tract
+45768857,From descendants,Primary mucoepidermoid carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4110435,From descendants,Malignant tumor of posterior margin of nasal septum and choanae,Condition,SNOMED,S,respiratory tract
+40490990,From descendants,Malignant epithelial neoplasm of hypopharynx,Condition,SNOMED,S,respiratory tract
+438360,From descendants,Primary malignant neoplasm of vallecula,Condition,SNOMED,S,respiratory tract
+45769024,From descendants,Primary adenosquamous carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45768839,From descendants,Primary squamous cell carcinoma of laryngeal cartilage,Condition,SNOMED,S,respiratory tract
+37166767,From descendants,Mucinous cystadenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166666,From descendants,Primary reactive oxygen species 1 negative non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+37166791,From descendants,Lymphoepithelial carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+1244238,From descendants,Well-differentiated neuroendocrine tumor of nasal cavity,Condition,SNOMED,S,respiratory tract
+609077,From descendants,Primary non-small cell carcinoma of upper lobe of left lung,Condition,SNOMED,S,respiratory tract
+45771015,From descendants,Primary squamous cell carcinoma of maxillary sinus,Condition,SNOMED,S,respiratory tract
+37166781,From descendants,Squamous cell carcinoma of hypopharyngeal aspect of aryepiglottic fold,Condition,SNOMED,S,respiratory tract
+609078,From descendants,Primary non-small cell carcinoma of lower lobe of right lung,Condition,SNOMED,S,respiratory tract
+4308627,From descendants,Adenoid cystic carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+36717352,From descendants,Primary squamous cell carcinoma of lingual tonsil,Condition,SNOMED,S,respiratory tract
+602149,From descendants,Primary adenocarcinoma of right main bronchus,Condition,SNOMED,S,respiratory tract
+45768899,From descendants,Overlapping squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+45768982,From descendants,Primary squamous cell carcinoma of lateral wall of oropharynx,Condition,SNOMED,S,respiratory tract
+432254,From descendants,Primary malignant neoplasm of Waldeyer's ring,Condition,SNOMED,S,respiratory tract
+45768984,From descendants,Primary squamous cell carcinoma of anterior surface of epiglottis,Condition,SNOMED,S,respiratory tract
+37166763,From descendants,Mucinous adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4180789,From descendants,Malignant tumor of pyriform fossa,Condition,SNOMED,S,respiratory tract
+37166330,From descendants,Primary squamous cell carcinoma of left lung,Condition,SNOMED,S,respiratory tract
+605445,From descendants,Primary large cell carcinoma of lower lobe of left lung,Condition,SNOMED,S,respiratory tract
+4094720,From descendants,Malignant tumor of tonsillar pillar,Condition,SNOMED,S,respiratory tract
+4092211,From descendants,Malignant tumor of glottis,Condition,SNOMED,S,respiratory tract
+37166371,From descendants,Primary adenoid cystic carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45772938,From descendants,Primary papillary squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37166741,From descendants,Adenosquamous carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45768935,From descendants,Primary mucinous adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45772951,From descendants,Primary basaloid squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45768931,From descendants,Primary non-mucinous bronchiolo-alveolar carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4092218,From descendants,Malignant neoplasm of middle lobe bronchus,Condition,SNOMED,S,respiratory tract
+4247830,From descendants,Primary malignant neoplasm of laryngeal commissure,Condition,SNOMED,S,respiratory tract
+37166786,From descendants,Squamous cell carcinoma of vallecula,Condition,SNOMED,S,respiratory tract
+4110565,From descendants,Malignant tumor of suprahyoid epiglottis,Condition,SNOMED,S,respiratory tract
+602121,From descendants,Primary squamous cell carcinoma of posterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+37166624,From descendants,Primary epidermal growth factor receptor positive non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+42539251,From descendants,Adenocarcinoma of left lung,Condition,SNOMED,S,respiratory tract
+602124,From descendants,Primary squamous cell carcinoma of tonsillar fossa,Condition,SNOMED,S,respiratory tract
+36716500,From descendants,Primary malignant neuroendocrine neoplasm of lung,Condition,SNOMED,S,respiratory tract
+45769087,From descendants,Primary giant cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+37166774,From descendants,Papillary squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4092210,From descendants,Malignant tumor of nasal vestibule,Condition,SNOMED,S,respiratory tract
+438080,From descendants,Primary malignant neoplasm of anterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768918,From descendants,Primary clear cell squamous cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+605182,From descendants,Primary mucoepidermoid carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768836,From descendants,Primary squamous cell carcinoma of accessory sinus,Condition,SNOMED,S,respiratory tract
+4247832,From descendants,Primary malignant neoplasm of lower lobe of left lung,Condition,SNOMED,S,respiratory tract
+37167738,From descendants,Primary pulmonary blastoma,Condition,SNOMED,S,respiratory tract
+259748,From descendants,Primary malignant neoplasm of accessory sinus,Condition,SNOMED,S,respiratory tract
+4181332,From descendants,Malignant tumor of base of tongue,Condition,SNOMED,S,respiratory tract
+440047,From descendants,Primary malignant neoplasm of tonsillar pillar,Condition,SNOMED,S,respiratory tract
+35610239,From descendants,Malignant neoplasm of bronchus or lung,Condition,SNOMED,S,respiratory tract
+45768872,From descendants,Primary oxyphilic adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+436352,From descendants,Primary malignant neoplasm of laryngeal cartilage,Condition,SNOMED,S,respiratory tract
+45768932,From descendants,Primary mucinous bronchiolo-alveolar carcinoma of lung,Condition,SNOMED,S,respiratory tract
+37166737,From descendants,Basal cell adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4252536,From descendants,Squamous cell carcinoma of epiglottis,Condition,SNOMED,S,respiratory tract
+4157452,From descendants,Carcinoma of subglottis,Condition,SNOMED,S,respiratory tract
+37166278,From descendants,Primary squamous cell carcinoma of bronchus in right lower lobe,Condition,SNOMED,S,respiratory tract
+45768863,From descendants,Primary acinar cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45768868,From descendants,Primary giant cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4177107,From descendants,Malignant tumor of nasal cavity,Condition,SNOMED,S,respiratory tract
+4157333,From descendants,Malignant neoplasm of main bronchus,Condition,SNOMED,S,respiratory tract
+45768829,From descendants,Primary adenocarcinoma of frontal sinus,Condition,SNOMED,S,respiratory tract
+4092212,From descendants,Malignant tumor of supraglottis,Condition,SNOMED,S,respiratory tract
+37165429,From descendants,Squamous cell carcinoma of posterior wall of oropharynx,Condition,SNOMED,S,respiratory tract
+36712815,From descendants,Squamous cell carcinoma of left lung,Condition,SNOMED,S,respiratory tract
+37165557,From descendants,Adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4092213,From descendants,Malignant neoplasm of arytenoid cartilage,Condition,SNOMED,S,respiratory tract
+4309385,From descendants,Carcinoma of nasal meatus,Condition,SNOMED,S,respiratory tract
+37018571,From descendants,Primary adenoid cystic carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+37165762,From descendants,Basaloid squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+37166728,From descendants,Adenoid cystic carcinoma of lung,Condition,SNOMED,S,respiratory tract
+4158909,From descendants,Tonsil carcinoma,Condition,SNOMED,S,respiratory tract
+436344,From descendants,Primary malignant neoplasm of posterior wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+37167735,From descendants,Primary pleuropulmonary blastoma,Condition,SNOMED,S,respiratory tract
+4177103,From descendants,Malignant tumor of lateral wall of nasopharynx,Condition,SNOMED,S,respiratory tract
+4089756,From descendants,Malignant neoplasm of lower lobe of lung,Condition,SNOMED,S,respiratory tract
+37165763,From descendants,Basaloid carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+40486208,From descendants,Carcinoma of pharynx,Condition,SNOMED,S,respiratory tract
+37166201,From descendants,Primary carcinoma of lingual tonsil,Condition,SNOMED,S,respiratory tract
+4196725,From descendants,Squamous cell carcinoma of bronchus in right lower lobe,Condition,SNOMED,S,respiratory tract
+3654301,From descendants,Reactive oxygen species 1 negative non-small cell lung cancer,Condition,SNOMED,S,respiratory tract
+45769025,From descendants,Primary lymphoepithelial carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45768946,From descendants,Primary basaloid carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+434289,From descendants,Primary malignant neoplasm of lingual tonsil,Condition,SNOMED,S,respiratory tract
+4181338,From descendants,Malignant tumor of oropharynx,Condition,SNOMED,S,respiratory tract
+37166313,From descendants,Primary undifferentiated nonkeratinizing carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768871,From descendants,Primary adenocarcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+37166768,From descendants,Mucinous cystadenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+4246126,From descendants,Primary malignant neoplasm of upper lobe of left lung,Condition,SNOMED,S,respiratory tract
+37166372,From descendants,Primary undifferentiated carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+45771025,From descendants,Primary cystadenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4310448,From descendants,"Squamous cell carcinoma of lung, TNM stage 1",Condition,SNOMED,S,respiratory tract
+36686537,From descendants,Large cell carcinoma of left lung,Condition,SNOMED,S,respiratory tract
+45768897,From descendants,Primary papillary squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+45768824,From descendants,Primary adenocarcinoma of accessory sinus,Condition,SNOMED,S,respiratory tract
+36716502,From descendants,Primary squamous cell carcinoma of pharyngeal tonsil,Condition,SNOMED,S,respiratory tract
+605447,From descendants,Primary large cell carcinoma of upper lobe of right lung,Condition,SNOMED,S,respiratory tract
+4157451,From descendants,Carcinoma of glottis,Condition,SNOMED,S,respiratory tract
+36716486,From descendants,Primary rhabdomyosarcoma of pharynx,Condition,SNOMED,S,respiratory tract
+4151250,From descendants,"Malignant neoplasm of upper lobe, bronchus or lung",Condition,SNOMED,S,respiratory tract
+4177108,From descendants,Malignant tumor of nasal septum,Condition,SNOMED,S,respiratory tract
+45769095,From descendants,Pleuropulmonary blastoma type I,Condition,SNOMED,S,respiratory tract
+253977,From descendants,Overlapping malignant neoplasm of accessory sinuses,Condition,SNOMED,S,respiratory tract
+4110589,From descendants,Large cell carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45766131,From descendants,Non-small cell lung cancer without mutation in epidermal growth factor receptor,Condition,SNOMED,S,respiratory tract
+4237016,From descendants,Squamous cell carcinoma of larynx,Condition,SNOMED,S,respiratory tract
+256633,From descendants,Primary malignant neoplasm of base of tongue,Condition,SNOMED,S,respiratory tract
+37166765,From descendants,Mucoepidermoid carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45768880,From descendants,Primary mixed subtype adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+37165556,From descendants,Adenocarcinoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
+40487140,From descendants,Carcinoma of nasal septum,Condition,SNOMED,S,respiratory tract
+4246121,From descendants,Primary malignant neoplasm of hilus of lung,Condition,SNOMED,S,respiratory tract
+37166473,From descendants,Primary papillary squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
+45768828,From descendants,Primary adenocarcinoma of ethmoidal sinus,Condition,SNOMED,S,respiratory tract
+37165769,From descendants,Giant cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4092057,From descendants,Malignant tumor of pharyngeal recess,Condition,SNOMED,S,respiratory tract
+4246805,From descendants,Primary malignant neoplasm of bronchus of right upper lobe,Condition,SNOMED,S,respiratory tract
+37166785,From descendants,Squamous cell carcinoma of piriform sinus,Condition,SNOMED,S,respiratory tract
+4110559,From descendants,Malignant tumor of anterior commissure,Condition,SNOMED,S,respiratory tract
+45769028,From descendants,Primary carcinoma ex pleomorphic adenoma of oropharynx,Condition,SNOMED,S,respiratory tract
+4292379,From descendants,Basal cell carcinoma of nasal columella,Condition,SNOMED,S,respiratory tract
+37166796,From descendants,Verrucous carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+37165420,From descendants,Spindle cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+37166398,From descendants,Primary carcinoma of vocal cord,Condition,SNOMED,S,respiratory tract
+45769032,From descendants,Primary infiltrating duct carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+44783808,From descendants,Undifferentiated carcinoma of nasal sinus,Condition,SNOMED,S,respiratory tract
+4309545,From descendants,Squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37166801,From descendants,Salivary gland type carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+44783845,From descendants,Malignant melanoma of nasal cavity,Condition,SNOMED,S,respiratory tract
+4310703,From descendants,"Non-small cell carcinoma of lung, TNM stage 1",Condition,SNOMED,S,respiratory tract
+4091931,From descendants,Malignant neoplasm of anterior epiglottis,Condition,SNOMED,S,respiratory tract
+45768980,From descendants,Primary squamous cell carcinoma of posterior wall of oropharynx,Condition,SNOMED,S,respiratory tract
+45769026,From descendants,Primary squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+28083,From descendants,Primary malignant neoplasm of pharynx,Condition,SNOMED,S,respiratory tract
+37166784,From descendants,Squamous cell carcinoma of posterior wall of hypopharynx,Condition,SNOMED,S,respiratory tract
+37166280,From descendants,Primary squamous cell carcinoma of bronchus in right upper lobe,Condition,SNOMED,S,respiratory tract
+4092209,From descendants,Malignant neoplasm of nasal conchae,Condition,SNOMED,S,respiratory tract
+4089649,From descendants,Malignant neoplasm of floor of nasopharynx,Condition,SNOMED,S,respiratory tract
+4247843,From descendants,Primary malignant neoplasm of nasal concha,Condition,SNOMED,S,respiratory tract
+37166777,From descendants,Papillary squamous cell carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+45768917,From descendants,Primary mucinous adenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+45769030,From descendants,Primary acinar cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+40492934,From descendants,Carcinoma of nasal cavity,Condition,SNOMED,S,respiratory tract
+45768875,From descendants,Primary papillary adenocarcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+601154,From descendants,Primary malignant neoplasm of left main bronchus,Condition,SNOMED,S,respiratory tract
+37166311,From descendants,Primary undifferentiated carcinoma of nasal sinus,Condition,SNOMED,S,respiratory tract
+45768953,From descendants,Primary squamous cell adenoid carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+4197582,From descendants,Squamous cell carcinoma of bronchus of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+4158473,From descendants,Carcinoma of base of tongue,Condition,SNOMED,S,respiratory tract
+438691,From descendants,Overlapping malignant neoplasm of oropharynx,Condition,SNOMED,S,respiratory tract
+4089526,From descendants,Malignant tumor of junctional zone of tongue,Condition,SNOMED,S,respiratory tract
+37166727,From descendants,Adenoid cystic carcinoma of hypopharynx,Condition,SNOMED,S,respiratory tract
+37166276,From descendants,Primary squamous cell carcinoma of bronchus in left lower lobe,Condition,SNOMED,S,respiratory tract
+45769021,From descendants,Primary basaloid carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+37165419,From descendants,Squamous cell adenoid carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+45768923,From descendants,Primary pseudosarcomatous carcinoma of lung,Condition,SNOMED,S,respiratory tract
+45772932,From descendants,Primary basaloid squamous cell carcinoma of trachea,Condition,SNOMED,S,respiratory tract
+1244512,From descendants,Bilateral primary malignant neoplasm of main bronchi,Condition,SNOMED,S,respiratory tract
+45768837,From descendants,Primary squamous cell carcinoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
+259755,From descendants,Primary malignant neoplasm of subglottis,Condition,SNOMED,S,respiratory tract
+40391740,From descendants,Pulmonary blastoma,Condition,SNOMED,S,respiratory tract
+4089652,From descendants,Malignant tumor aryepiglottic fold - hypopharyngeal aspect,Condition,SNOMED,S,respiratory tract
+608926,From descendants,Primary small cell carcinoma of left lung,Condition,SNOMED,S,respiratory tract
+45768842,From descendants,Malignant melanoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
+37311684,From descendants,Acinar cell cystadenocarcinoma of lung,Condition,SNOMED,S,respiratory tract
+605205,From descendants,Primary malignant melanoma of overlapping sites of accessory sinuses,Condition,SNOMED,S,respiratory tract
+37162705,From descendants,Primary squamous cell carcinoma of Waldeyer ring,Condition,SNOMED,S,respiratory tract
 432558,From initial search,Overlapping malignant neoplasm of nasopharynx,Condition,SNOMED,S,nasopharynx
 436344,From initial search,Primary malignant neoplasm of posterior wall of nasopharynx,Condition,SNOMED,S,nasopharynx
 438080,From initial search,Primary malignant neoplasm of anterior wall of nasopharynx,Condition,SNOMED,S,nasopharynx

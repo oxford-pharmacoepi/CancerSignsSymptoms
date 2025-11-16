@@ -26,6 +26,7 @@ library(odbc)
 library(RPostgres)
 library(readr)
 library(tibble)
+library(purrr)
 
 # database metadata and connection details
 # The name/ acronym for the database
@@ -58,10 +59,10 @@ writeSchema <- "..."
 # minimum counts that can be displayed according to data governance
 minCellCount <- 5
 
-# start date for study period
-study_start_date <- as.Date("2005-01-01")
+# start date for study period (earliest available data) if not date below
+study_start_date <- as.Date("2000-01-01")
 
-# end date for the study period
+# end date for the study period (latest available data) if not date below
 study_end_date <- as.Date("2024-12-31")
 
 # Create cdm object ----
