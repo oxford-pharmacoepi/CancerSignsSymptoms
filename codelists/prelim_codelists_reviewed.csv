@@ -80,6 +80,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 37167623,From descendants,Primary squamous cell carcinoma of gallbladder and extrahepatic biliary tract,Condition,SNOMED,S,bladder,n
 37174113,From descendants,Primary adenocarcinoma of posterior wall of urinary bladder,Condition,SNOMED,S,bladder,y
 37206195,From descendants,Neuroendocrine neoplasm of gallbladder,Condition,SNOMED,S,bladder,n
+200680,From review of orphan codes,Neoplasm of urinary bladder,Condition,SNOMED,S,bladder,y
+4215373,From review of orphan codes,Renal cell carcinoma,Observation,SNOMED,S,kidney,y
 196653,From initial search,Malignant tumor of kidney,Condition,SNOMED,S,kidney,y
 198985,From initial search,Primary malignant neoplasm of kidney,Condition,SNOMED,S,kidney,y
 619369,From initial search,Bilateral primary malignant neoplasm of kidneys,Condition,SNOMED,S,kidney,y
@@ -158,6 +160,7 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 37209431,From descendants,Transitional cell carcinoma of right kidney,Condition,SNOMED,S,kidney,y
 40488899,From descendants,Carcinoma of renal pelvis,Condition,SNOMED,S,kidney,y
 45765451,From descendants,Renal cell carcinoma,Condition,SNOMED,S,kidney,y
+4101758,From review of orphan codes,Hepatocellular carcinoma,Observation,SNOMED,S,liver,y
 201519,From initial search,Primary malignant neoplasm of liver,Condition,SNOMED,S,liver,y
 4246127,From initial search,Malignant neoplasm of liver,Condition,SNOMED,S,liver,y
 602006,From descendants,Primary adenocarcinoma of intrahepatic bile duct,Condition,SNOMED,S,liver,y
@@ -540,6 +543,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 380661,From descendants,Primary malignant neoplasm of cerebrum,Condition,SNOMED,S,brain,y
 37166575,From descendants,Primary medulloblastoma of cerebellum,Condition,SNOMED,S,brain,y
 438086,From descendants,Primary malignant neoplasm of parietal lobe,Condition,SNOMED,S,brain,y
+373724,From review of orphan codes,Neoplasm of brain,Condition,SNOMED,S,brain,y
+81251,From review of orphan codes,Neoplasm of breast,Condition,SNOMED,S,breast,y
 436353,From initial search,Primary malignant neoplasm of upper outer quadrant of female breast,Condition,SNOMED,S,breast,y
 135489,From initial search,Primary malignant neoplasm of male breast,Condition,SNOMED,S,breast,y
 37172171,From initial search,Malignant neoplasm of breast in remission,Condition,SNOMED,S,breast,n
@@ -742,6 +747,7 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 37167629,From descendants,Primary adenosarcoma of cervix uteri,Condition,SNOMED,S,cervix,y
 37167630,From descendants,Primary carcinosarcoma of cervix uteri,Condition,SNOMED,S,cervix,y
 37167778,From descendants,Primary primitive neuroectodermal tumor of cervix uteri,Condition,SNOMED,S,cervix,y
+4156113,From review of orphan codes,Malignant neoplasm of body of uterus,Condition,SNOMED,S,corpus uteri,y
 194286,From initial search,"Malignant neoplasm of corpus uteri, excluding isthmus",Condition,SNOMED,S,corpus uteri,y
 3654961,From initial search,Complex mixed and stromal malignant neoplasm of myometrium of corpus uteri,Condition,SNOMED,S,corpus uteri,y
 3654964,From initial search,Complex mixed and stromal malignant neoplasm of endometrium of corpus uteri,Condition,SNOMED,S,corpus uteri,y
@@ -788,6 +794,7 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 44783285,From descendants,Endometrial stromal sarcoma,Condition,SNOMED,S,corpus uteri,y
 44783286,From descendants,Low grade endometrial stromal sarcoma,Condition,SNOMED,S,corpus uteri,y
 44783287,From descendants,High grade endometrial stromal sarcoma,Condition,SNOMED,S,corpus uteri,y
+4089646,From review of orphan codes,Malignant neoplasm of junctional region of epiglottis,Condition,SNOMED,S,hypopharynx,y
 439746,From initial search,Primary malignant neoplasm of hypopharynx,Condition,SNOMED,S,hypopharynx,y
 440044,From initial search,Overlapping malignant neoplasm of hypopharynx,Condition,SNOMED,S,hypopharynx,y
 4116339,From initial search,Malignant tumor of posterior wall of hypopharynx,Condition,SNOMED,S,hypopharynx,y
@@ -2426,6 +2433,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 42537752,From descendants,Primary adenocarcinoma of submandibular gland,Condition,SNOMED,S,salivary gland,y
 42537753,From descendants,Primary squamous cell carcinoma of submandibular gland,Condition,SNOMED,S,salivary gland,y
 42539700,From descendants,Primary squamous cell carcinoma of sublingual gland,Condition,SNOMED,S,salivary gland,y
+4131611,From review of orphan codes,Neoplasm of stomach,Condition,SNOMED,S,stomach,y
+4095316,From review of orphan codes,Malignant tumor of abdominal part of esophagus,Condition,SNOMED,S,stomach,y
 193422,From initial search,Primary malignant neoplasm of body of stomach,Condition,SNOMED,S,stomach,y
 196044,From initial search,Primary malignant neoplasm of stomach,Condition,SNOMED,S,stomach,y
 197803,From initial search,Overlapping malignant neoplasm of stomach,Condition,SNOMED,S,stomach,y
@@ -2557,6 +2566,7 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 37396743,From descendants,Familial papillary thyroid carcinoma with renal papillary neoplasia syndrome,Condition,SNOMED,S,thyroid,y
 40488900,From descendants,Carcinoma of thyroid,Condition,SNOMED,S,thyroid,y
 46270966,From descendants,Diffuse sclerosing papillary thyroid carcinoma,Condition,SNOMED,S,thyroid,y
+4089658,From review of orphan codes,Malignant neoplasm of cardio-esophageal junction of stomach,Condition,SNOMED,S,esophagus,y
 25748,From initial search,Overlapping malignant neoplasm of esophagus,Condition,SNOMED,S,esophagus,y
 26638,From initial search,Primary malignant neoplasm of esophagus,Condition,SNOMED,S,esophagus,y
 135476,From initial search,Primary malignant neoplasm of thoracic esophagus,Condition,SNOMED,S,esophagus,y
