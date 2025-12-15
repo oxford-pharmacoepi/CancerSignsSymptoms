@@ -57,6 +57,7 @@ x <- c( "bladder",
         "rectum",
         "anus",
         "brain",
+        "glioma",
         "breast",
         "cervix",
         "corpus uteri",
@@ -84,7 +85,9 @@ for (i in 1:length(x)) {
 
 keywords <- c(
   paste("malignant neoplasm of", x[i]),
-  paste("malignant tumor of", x[i])
+  paste("neoplasm of", x[i]),
+  paste("malignant tumor of", x[i]),
+  paste("malignant", x[i])
 )
 
 codes[[i]] <- getCandidateCodes(
@@ -92,10 +95,12 @@ codes[[i]] <- getCandidateCodes(
     keywords = keywords,
     exclude = c("benign",
                 "skin",
+                "in situ",
+                "uncertain behavior",
                 "recurrence",
                 "lymphoma",
                 "secondary") ,
-    domains = "Condition",
+    domains = c("Condition", "Observation"),
     standardConcept = "Standard",
     searchInSynonyms = FALSE,
     searchNonStandard = FALSE,
@@ -109,4 +114,5 @@ codes[[i]] <- getCandidateCodes(
 codes_together <- bind_rows(codes)
 
 #export codelists
-write_csv(codes_together, paste0(here("codelists"), "/prelim_codelists.csv"))
+write_csv(codes_together, paste0(here("codelists"), "/prelim_codelists_151225.csv"))
+
