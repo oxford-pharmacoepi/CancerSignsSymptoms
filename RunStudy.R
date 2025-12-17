@@ -1,11 +1,5 @@
 set.seed(1234)
 
-# subset the observation period to the study period
-cdm$observation_period <- cdm$observation_period |>
-  filter(observation_period_start_date >= study_start_date,
-         observation_period_end_date   <= study_end_date)
-
-
 # read in and create a codelist and only use those in cdm
 cancer_codelists <- read_csv(paste0(here("codelists"), "/prelim_codelists_reviewed.csv")) %>%
   filter(keep == "y") %>%
@@ -87,18 +81,42 @@ cancer_codelists <- bind(
 ) %>%
   newCodelist()
 
+# any cancer (to make sure cases are primary cases)
+any_cancer_codelists <- CodelistGenerator::codesFromConceptSet(
+  path = here::here("codelists", "exclusions"),
+  cdm = cdm
+)
+
+# create cohort
+cdm$any_cancer <- CohortConstructor::conceptCohort(
+  cdm = cdm,
+  conceptSet = any_cancer_codelists,
+  name = "any_cancer",
+)
+
 # create the cancer cohorts ------
 cdm[["pss_365_po"]] <- conceptCohort(cdm,
                                      conceptSet = cancer_codelists,
                                      exit = "event_start_date",
-                                     name = "pss_365_po") |>
+                                     name = "pss_365_po") %>% 
   requireIsFirstEntry() %>%
-  requireAge(ageRange = list(c(18, 150)) ) %>%
-  requirePriorObservation(minPriorObservation = 365)
+  requirePriorObservation(minPriorObservation = 365) %>% 
+  requireInDateRange(indexDate = "cohort_start_date",
+                     dateRange = as.Date(c(study_start_date, study_end_date))) %>% 
+  requireAge(ageRange = list(c(18, 150)) ) 
+
+# exclude those with other cancers the year before cancer of interest
+cdm[["pss_365_po_clean"]] <- cdm[["pss_365_po"]] %>%
+  requireCohortIntersect(
+    intersections = 0,
+    name = "pss_365_po_clean",
+    targetCohortTable = "any_cancer",
+    window = c(-365, -1)       
+  )
 
 # run phenotypeR
 result <- phenotypeDiagnostics(
-  cdm[["pss_365_po"]],
+  cdm[["pss_365_po_clean"]],
   diagnostics = c("databaseDiagnostics",
                   "codelistDiagnostics",
                   "cohortDiagnostics"),
@@ -127,7 +145,7 @@ result <- phenotypeDiagnostics(
 #
 # # get matched cohort for table one
 # cdm$matched_pss <- matchCohorts(
-#   cohort = cdm$pss_365_po,
+#   cohort = cdm$pss_365_po_clean,
 #   name = "matched_pss")
 #
 # # get nsaid cohort and add in inclusion/exclusion ---
@@ -162,12 +180,12 @@ result <- phenotypeDiagnostics(
 #                        "80 to 89" = c(80, 89),
 #                        "90+" = c(90, 150)),
 #       cohortIntersectFlag = list(
-#         "Conditions prior to index date" = list(
+#         "Conditions any time prior to index date" = list(
 #           targetCohortTable = "conditions",
 #           window = c(-Inf, -1)
 #         ),
 #
-#         "Conditions 1 year prior to index date" = list(
+#         "Conditions 365 days prior to index date" = list(
 #           targetCohortTable = "conditions",
 #           window = c(-365, -1)
 #         ),
