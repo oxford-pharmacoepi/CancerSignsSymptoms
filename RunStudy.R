@@ -87,7 +87,7 @@ any_cancer_codelists <- CodelistGenerator::codesFromConceptSet(
   cdm = cdm
 )
 
-# create cohort
+# create cohort of any cancer (excl skin cancer)
 cdm$any_cancer <- CohortConstructor::conceptCohort(
   cdm = cdm,
   conceptSet = any_cancer_codelists,
