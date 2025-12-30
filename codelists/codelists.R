@@ -114,5 +114,5 @@ codes[[i]] <- getCandidateCodes(
 codes_together <- bind_rows(codes)
 
 #export codelists
-write_csv(codes_together, paste0(here("codelists"), "/prelim_codelists_151225.csv"))
+write_csv(codes_together, paste0(here("codelists"), "/prelim_codelists.csv"))
 

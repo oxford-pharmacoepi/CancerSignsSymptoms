@@ -748,8 +748,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 37167654,From descendants,Primary choroid plexus carcinoma,Condition,SNOMED,S,brain
 36684451,From descendants,Oligodendroglioma of cerebrum,Condition,SNOMED,S,brain
 37166663,From descendants,Primary pleomorphic xanthoastrocytoma of brain,Condition,SNOMED,S,brain
-4100541,From descendants,Microprolactinoma,Condition,SNOMED,S,brain
 4130062,From descendants,Neoplasm of craniopharyngeal duct,Condition,SNOMED,S,brain
+4100541,From descendants,Microprolactinoma,Condition,SNOMED,S,brain
 443561,From descendants,Malignant neoplasm of cerebrum,Condition,SNOMED,S,brain
 602080,From descendants,Primary oligodendroglioma of frontal lobe,Condition,SNOMED,S,brain
 603115,From descendants,Gliomatosis cerebri,Condition,SNOMED,S,brain
@@ -761,8 +761,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 609235,From descendants,Primary malignant glioma of temporal lobe,Condition,SNOMED,S,brain
 609185,From descendants,Primary glioblastoma multiforme of cerebellum,Condition,SNOMED,S,brain
 42538692,From descendants,Astroblastoma of brain,Condition,SNOMED,S,brain
-4091610,From descendants,Malignant neoplasm of thalamus,Condition,SNOMED,S,brain
 4082325,From descendants,Pilocytic astrocytoma of cerebellum,Condition,SNOMED,S,brain
+4091610,From descendants,Malignant neoplasm of thalamus,Condition,SNOMED,S,brain
 4091490,From descendants,Malignant neoplasm of cerebrum (excluding lobes and ventricles),Condition,SNOMED,S,brain
 4110887,From descendants,Gonadotroph adenoma,Condition,SNOMED,S,brain
 4181481,From descendants,Malignant neoplasm of parietal lobe,Condition,SNOMED,S,brain
@@ -808,8 +808,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 37166662,From descendants,Primary fibrillary astrocytoma of brain,Condition,SNOMED,S,brain
 608240,From descendants,Diffuse astrocytoma of brain,Condition,SNOMED,S,brain
 37167842,From descendants,Primary desmoplastic nodular medulloblastoma of brain,Condition,SNOMED,S,brain
-4095305,From descendants,Malignant tumor of craniopharyngeal duct,Condition,SNOMED,S,brain
 4083496,From descendants,Neuroblastoma of brain,Condition,SNOMED,S,brain
+4095305,From descendants,Malignant tumor of craniopharyngeal duct,Condition,SNOMED,S,brain
 4114198,From descendants,Malignant tumor of olfactory tract,Condition,SNOMED,S,brain
 609232,From descendants,Primary anaplastic astrocytoma of temporal lobe,Condition,SNOMED,S,brain
 37162718,From descendants,Myxopapillary ependymoma of brain,Condition,SNOMED,S,brain
@@ -943,8 +943,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 602018,From descendants,Primary anaplastic astrocytoma of occipital lobe,Condition,SNOMED,S,glioma
 37018609,From descendants,Anaplastic astrocytoma of central nervous system,Condition,SNOMED,S,glioma
 37116984,From descendants,Embryonal central nervous system neoplasm with rhabdoid feature,Observation,SNOMED,S,glioma
-37167840,From descendants,Primary giant cell glioblastoma of central nervous system,Condition,SNOMED,S,glioma
 37174121,From descendants,Primary astrocytoma of occipital lobe,Condition,SNOMED,S,glioma
+37167840,From descendants,Primary giant cell glioblastoma of central nervous system,Condition,SNOMED,S,glioma
 36717624,From descendants,Primary glioblastoma multiforme of frontal lobe,Condition,SNOMED,S,glioma
 4099072,From descendants,Mixed oligoastrocytoma,Observation,SNOMED,S,glioma
 4112961,From descendants,Oligodendroglioma of brain,Condition,SNOMED,S,glioma
@@ -3176,8 +3176,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 608925,From descendants,Primary small cell carcinoma of right lung,Condition,SNOMED,S,respiratory tract
 37165776,From descendants,Myoepithelial carcinoma of trachea,Condition,SNOMED,S,respiratory tract
 605477,From descendants,Primary small cell carcinoma of right main bronchus,Condition,SNOMED,S,respiratory tract
-37169847,From descendants,Squamous cell carcinoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
 37166279,From descendants,Primary squamous cell carcinoma of bronchus of middle lobe of right lung,Condition,SNOMED,S,respiratory tract
+37169847,From descendants,Squamous cell carcinoma of sphenoidal sinus,Condition,SNOMED,S,respiratory tract
 605230,From descendants,Adenoid squamous cell carcinoma of nasopharynx,Condition,SNOMED,S,respiratory tract
 4174275,From descendants,Pulmonary lymphangioleiomyomatosis,Condition,SNOMED,S,respiratory tract
 4110564,From descendants,Tumor of suprahyoid epiglottis,Condition,SNOMED,S,respiratory tract
@@ -3528,8 +3528,8 @@ concept_id,found_from,concept_name,domain_id,vocabulary_id,standard_concept,canc
 37166741,From descendants,Adenosquamous carcinoma of trachea,Condition,SNOMED,S,respiratory tract
 45768935,From descendants,Primary mucinous adenocarcinoma of trachea,Condition,SNOMED,S,respiratory tract
 45768845,From descendants,Single sclerosing hemangioma of lung,Condition,SNOMED,S,respiratory tract
-45768931,From descendants,Primary non-mucinous bronchiolo-alveolar carcinoma of lung,Condition,SNOMED,S,respiratory tract
 45772951,From descendants,Primary basaloid squamous cell carcinoma of oropharynx,Condition,SNOMED,S,respiratory tract
+45768931,From descendants,Primary non-mucinous bronchiolo-alveolar carcinoma of lung,Condition,SNOMED,S,respiratory tract
 4131446,From descendants,Neoplasm of ethmoidal sinus,Condition,SNOMED,S,respiratory tract
 4092218,From descendants,Malignant neoplasm of middle lobe bronchus,Condition,SNOMED,S,respiratory tract
 4247830,From descendants,Primary malignant neoplasm of laryngeal commissure,Condition,SNOMED,S,respiratory tract
