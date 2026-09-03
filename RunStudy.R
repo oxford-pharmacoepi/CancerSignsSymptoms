@@ -1,4 +1,12 @@
-set.seed(1234)
+# create results folders
+dir.create(here::here("results", dbName, "characteristics", "processed"),
+           recursive = TRUE,
+           showWarnings = FALSE)
+
+dir.create(here::here("results", dbName, "lsc", "processed"),
+           recursive = TRUE,
+           showWarnings = FALSE)
+
 
 # read in and create a codelist and only use those in cdm
 cancer_codelists <- read_csv(paste0(here("codelists"), "/prelim_codelists_reviewed.csv")) %>%
@@ -124,105 +132,242 @@ cdm[["pss_365_po_clean"]] <- cdm[["pss_365_po"]] %>%
     window = c(-365, -1)       
   )
 
-# run phenotypeR
-result <- phenotypeDiagnostics(
-  cdm[["pss_365_po_clean"]],
-  diagnostics = c("databaseDiagnostics",
-                  "codelistDiagnostics",
-                  "cohortDiagnostics"),
-  survival = FALSE,
-  matchedSample = NULL,
-  populationSample = NULL,
-  populationDateRange = as.Date(c(NA, NA))
+# anyone with a prior cancer (apart from skin cancer) is excluded
+# cdm[["pss_365_po_clean_inf"]] <- cdm[["pss_365_po"]] %>%
+#   requireCohortIntersect(
+#     intersections = 0,
+#     name = "pss_365_po_clean_inf",
+#     targetCohortTable = "any_cancer",
+#     window = c(-Inf, -1)       
+#   )
+
+# baseline characteristics -------
+
+# conditions -------
+codelistConditions <- CodelistGenerator::codesFromConceptSet(here("codelists", "Conditions"), cdm)
+
+cdm <- CDMConnector::generateConceptCohortSet(cdm = cdm,
+                                              conceptSet = codelistConditions,
+                                              name = "conditions",
+                                              overwrite = TRUE)
+
+
+
+# medications -----
+codelistMedications <- CodelistGenerator::codesFromConceptSet(here("codelists", "Medications"), cdm)
+
+cdm <- DrugUtilisation::generateDrugUtilisationCohortSet(cdm = cdm,
+                                                         conceptSet = codelistMedications,
+                                                         name = "medications")
+
+
+
+
+# updated match cohort function adapted from CohortConstructor
+source(here::here("match_cohort_po.R"))
+
+#set up for lsc
+lscWindows <- list(c(-Inf, -366), c(-365, -31), c(-365, -91))
+lscTableEvents <-c("condition_occurrence", 
+                   "procedure_occurrence" ,
+                   "observation")
+lscTableEpisodes <- c("drug_exposure")
+lscMminimumFrequency <- 0
+
+
+# capture results for processing
+results_lsc <- list()
+
+# cdm <- cdmFromCon(
+#   con = db,
+#   cdmSchema = cdmSchema,
+#   writeSchema = writeSchema,
+#   writePrefix = writePrefix,
+#   achillesSchema = writeSchema,
+#   cohortTables = c("pss_365_po" ,
+#                    "conditions",
+#                    "medications",
+#                    #"pss_365_po_clean_inf",
+#                    "any_cancer",
+#                    "pss_365_po_clean"),
+#   cdmName = dbName
+# )
+
+
+# create a copy of the cohort and filter it per cancer then do the matching and create a loop of analysis
+# you could do it all in one step however if you have a slow server it is better to do per cancer
+for (i in 1:length(names(cancer_codelists))) {
+  
+#create cohort name (remove and spaces with underscores)
+cancer_name <- paste0(
+  "pss_365_",
+  gsub(" ", "_", names(cancer_codelists)[[i]])
 )
 
-# # add in baseline characteristics
-# codelistConditions <- CodelistGenerator::codesFromConceptSet(here("codelists", "Conditions"), cdm)
-#
-# cdm <- CDMConnector::generateConceptCohortSet(cdm = cdm,
-#                                               conceptSet = codelistConditions,
-#                                               name = "conditions",
-#                                               overwrite = TRUE)
-#
-#
-#
-# # medications -----
-# codelistMedications <- CodelistGenerator::codesFromConceptSet(here("codelists", "Medications"), cdm)
-#
-# cdm <- DrugUtilisation::generateDrugUtilisationCohortSet(cdm = cdm,
-#                                                          conceptSet = codelistMedications,
-#                                                          name = "medications")
-#
-# # get matched cohort for table one
-# cdm$matched_pss <- matchCohorts(
-#   cohort = cdm$pss_365_po_clean,
-#   name = "matched_pss")
-#
-# # get nsaid cohort and add in inclusion/exclusion ---
-# cdm$pss_characteristics <- cdm$matched_pss %>%
-#   PatientProfiles::addDemographics()
-#
-# cdm$pss_characteristics <- cdm$pss_characteristics %>%
-#   PatientProfiles::addDemographics(
-#     ageGroup = list(
-#       "age_group" =
-#         list(
-#           "18 to 49" = c(18, 49),
-#           "50 to 59" = c(50, 59),
-#           "60 to 69" = c(60, 69),
-#           "70 to 79" = c(70, 79),
-#           "80 to 89" = c(80, 89),
-#           "90+" = c(90, 150)
-#         )
-#     ))
-#
-#
-#
-# # characterise comorbs and medications
-# suppressWarnings(
-#
-#   summarycharacteristics <- cdm$pss_characteristics %>%
-#     CohortCharacteristics::summariseCharacteristics(
-#       ageGroup = list( "18 to 49" = c(18, 49),
-#                        "50 to 59" = c(50, 59),
-#                        "60 to 69" = c(60, 69),
-#                        "70 to 79" = c(70, 79),
-#                        "80 to 89" = c(80, 89),
-#                        "90+" = c(90, 150)),
-#       cohortIntersectFlag = list(
-#         "Conditions any time prior to index date" = list(
-#           targetCohortTable = "conditions",
-#           window = c(-Inf, -1)
-#         ),
-#
-#         "Conditions 365 days prior to index date" = list(
-#           targetCohortTable = "conditions",
-#           window = c(-365, -1)
-#         ),
-#
-#
-#         "Medications 365 days prior to index date" = list(
-#           targetCohortTable = "medications",
-#           window = c(-365, -1)
-#         ),
-#
-#         "Medications 90 days prior to index date" = list(
-#           targetCohortTable = "medications",
-#           window = c(-90, -1)
-#         )
-#
-#
-#       )
-#
-#     )
-# )
-#
-# omopgenerics::exportSummarisedResult(summarycharacteristics,
-#                                      minCellCount = 5,
-#                                      path = here("results"),
-#                                      fileName = paste0(cdmName(cdm),
-#                                                        "_summary_characteristics.csv")
+message("Starting: ", cancer_name)
+
+# create a copy of the cancer cohort
+cdm[[cancer_name]] <- copyCohorts(cdm[["pss_365_po_clean"]], cohortId = i, name = cancer_name)
+
+# exclude males for females based cancer and females from male based cancers
+cdm[[cancer_name]] <- cdm[[cancer_name]] %>%
+  addSex() %>%
+  filter(
+    !(sex == "Male" & cancer_name %in% c("pss_365_ovary", "pss_365_cervix", "pss_365_corpus_uteri")),
+    !(sex == "Female" & cancer_name == "pss_365_prostate")
+  )
+
+# create cohort name for matched cohorts
+cancer_name_match <- paste0(
+  "pss_365_matched_",
+  gsub(" ", "_", names(cancer_codelists)[[i]])
+)
+
+set.seed(digest::digest2int(cancer_name_match))
+
+# carry out matching
+cdm[[cancer_name_match]] <- matchCohortsPo(
+  cohort = cdm[[cancer_name]],
+  matchSex = TRUE,
+  matchYearOfBirth = TRUE,
+  ratio = 1,
+  keepOriginalCohorts = FALSE,
+  name = cancer_name_match
+)
+
+# baseline characteristics
+cdm[[cancer_name_match]] <- cdm[[cancer_name_match]] %>%
+  PatientProfiles::addDemographics(
+    ageGroup = list(
+      "age_group" =
+        list(
+          "18 to 49" = c(18, 49),
+          "50 to 59" = c(50, 59),
+          "60 to 69" = c(60, 69),
+          "70 to 79" = c(70, 79),
+          "80 to 89" = c(80, 89),
+          "90+" = c(90, 150)
+        )
+    ))
+
+
+
+# characterise comorbs and medications
+suppressWarnings(
+
+  summarycharacteristics <- cdm[[cancer_name_match]] %>%
+    CohortCharacteristics::summariseCharacteristics(
+      ageGroup = list( "18 to 49" = c(18, 49),
+                       "50 to 59" = c(50, 59),
+                       "60 to 69" = c(60, 69),
+                       "70 to 79" = c(70, 79),
+                       "80 to 89" = c(80, 89),
+                       "90+" = c(90, 150)),
+      cohortIntersectFlag = list(
+        "Conditions any time prior to index date" = list(
+          targetCohortTable = "conditions",
+          window = c(-Inf, -1)
+        ),
+
+        "Conditions 365-31 days prior to index date" = list(
+          targetCohortTable = "conditions",
+          window = c(-365, -31)
+        ),
+        
+        "Conditions 365-91 days prior to index date" = list(
+          targetCohortTable = "conditions",
+          window = c(-365, -91)
+        ),
+        
+        "Any Cancer 365-31 days prior to index date" = list(
+          targetCohortTable = "any_cancer",
+          window = c(-365, -31)
+        ),
+
+
+        "Medications 365-31 days prior to index date" = list(
+          targetCohortTable = "medications",
+          window = c(-365, -31)
+        ),
+        
+        "Medications 365-91 days prior to index date" = list(
+          targetCohortTable = "medications",
+          window = c(-365, -91)
+        ),
+
+        "Medications 90 days prior to index date" = list(
+          targetCohortTable = "medications",
+          window = c(-90, -1)
+        )
+
+
+      ) ,
+
+      tableIntersectCount = list(
+        "Visits in 365-31 days prior index date" = list(
+          tableName = "visit_occurrence",
+          window = c(-365, -31)
+        )
+      ) 
+      
+    )
+)
+
+
+exportSummarisedResult(summarycharacteristics,
+                       path = here::here("results", dbName, "characteristics"),
+                       minCellCount = minCellCount,
+                       fileName = paste0(dbName, "_", cancer_name, "_baseline_characteristics.csv"))
+
+
+# lsc
+lsc1 <- CohortCharacteristics::summariseLargeScaleCharacteristics(
+  cohort = cdm[[cancer_name_match]],
+  window = lscWindows,
+  eventInWindow = lscTableEvents,
+  episodeInWindow = lscTableEpisodes,
+  minimumFrequency = lscMminimumFrequency,
+  includeSource = c(FALSE),
+  excludedCodes = NULL
+)
+
+exportSummarisedResult(lsc1, path = here::here("results", dbName, "lsc"), 
+                       minCellCount = 0, 
+                       fileName = paste0(dbName, "_", cancer_name, "_lsc.csv"))
+
+# save result for processing
+results_lsc[[cancer_name]] <- lsc1
+
+rm(lsc1)
+
+message("Finished: ", cancer_name)
+
+
+}
+
+
+# script for processing lsc to calculate SMD and creating figures for manuscripts
+source(here::here("result_processing_lsc_conditions.R"))
+source(here::here("result_processing_lsc_drugs.R"))
+source(here::here("result_processing_lsc_observation.R"))
+
+# script for processing characteristics for paper
+source(here::here("result_processing_characteristics.R"))
+
+
+
+
+# run phenotypeR
+# result <- phenotypeDiagnostics(
+#   cdm[["pss_365_po_clean_inf"]],
+#   diagnostics = c("databaseDiagnostics",
+#                   "codelistDiagnostics",
+#                   "cohortDiagnostics"),
+#   survival = FALSE,
+#   matchedSample = NULL,
+#   populationSample = NULL,
+#   populationDateRange = as.Date(c(NA, NA))
 # )
 
 # export the phenotypeR results
-exportSummarisedResult(result, path = here::here("results"), minCellCount = minCellCount, fileName = paste0(dbName, "_result.csv"))
+#exportSummarisedResult(result, path = here::here("results"), minCellCount = minCellCount, fileName = paste0(dbName, "_result.csv"))
