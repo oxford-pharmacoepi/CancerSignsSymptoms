@@ -353,21 +353,3 @@ source(here::here("result_processing_lsc_observation.R"))
 
 # script for processing characteristics for paper
 source(here::here("result_processing_characteristics.R"))
-
-
-
-
-# run phenotypeR
-# result <- phenotypeDiagnostics(
-#   cdm[["pss_365_po_clean_inf"]],
-#   diagnostics = c("databaseDiagnostics",
-#                   "codelistDiagnostics",
-#                   "cohortDiagnostics"),
-#   survival = FALSE,
-#   matchedSample = NULL,
-#   populationSample = NULL,
-#   populationDateRange = as.Date(c(NA, NA))
-# )
-
-# export the phenotypeR results
-#exportSummarisedResult(result, path = here::here("results"), minCellCount = minCellCount, fileName = paste0(dbName, "_result.csv"))
