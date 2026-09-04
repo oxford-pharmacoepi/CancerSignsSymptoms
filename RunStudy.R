@@ -178,22 +178,6 @@ lscMminimumFrequency <- 0
 # capture results for processing
 results_lsc <- list()
 
-# cdm <- cdmFromCon(
-#   con = db,
-#   cdmSchema = cdmSchema,
-#   writeSchema = writeSchema,
-#   writePrefix = writePrefix,
-#   achillesSchema = writeSchema,
-#   cohortTables = c("pss_365_po" ,
-#                    "conditions",
-#                    "medications",
-#                    #"pss_365_po_clean_inf",
-#                    "any_cancer",
-#                    "pss_365_po_clean"),
-#   cdmName = dbName
-# )
-
-
 # create a copy of the cohort and filter it per cancer then do the matching and create a loop of analysis
 # you could do it all in one step however if you have a slow server it is better to do per cancer
 for (i in 1:length(names(cancer_codelists))) {
