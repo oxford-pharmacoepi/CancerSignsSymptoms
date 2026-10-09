@@ -5,7 +5,7 @@ result_lsc <- omopgenerics::bind(results_lsc)
 
 # if reading direct from csv files after analysis
 # result_lsc <- omopgenerics::importSummarisedResult(
-#   path = here("results", dbName, "lsc")
+#   path = here("results", dbName, "lsc"))
 
 
 # get names of cancers
