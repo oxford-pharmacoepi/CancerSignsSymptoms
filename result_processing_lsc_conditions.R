@@ -4,8 +4,8 @@
 result_lsc <- omopgenerics::bind(results_lsc)
 
 # if reading direct from csv files after analysis
-# result_lsc <- omopgenerics::importSummarisedResult(
-#   path = here("results", dbName, "lsc"))
+result_lsc <- omopgenerics::importSummarisedResult(
+  path = here("results", dbName, "lsc"))
 
 
 # get names of cancers
@@ -549,7 +549,7 @@ p_lower_gi <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -630,7 +630,7 @@ p_upper_gi <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -727,7 +727,7 @@ p_han <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -808,7 +808,7 @@ p_lung <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -899,7 +899,7 @@ p_female <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -987,7 +987,7 @@ p_genitourinary <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -1071,7 +1071,7 @@ p_other <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -1463,7 +1463,7 @@ p_lower_gi1 <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -1544,7 +1544,7 @@ p_upper_gi1 <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -1641,7 +1641,7 @@ p_han1 <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -1722,7 +1722,7 @@ p_lung1 <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -1813,7 +1813,7 @@ p_female1 <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -1903,7 +1903,7 @@ p_genitourinary1 <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
@@ -1987,7 +1987,7 @@ p_other1 <- ggplot(
   scale_x_discrete(position = "top") +
   labs(
     x = "Cancer",
-    y = "Clinical Code"
+    y = "Clinical Concept"
   ) +
   theme_minimal(base_size = 10) +
   theme(
