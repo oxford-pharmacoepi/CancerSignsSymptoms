@@ -451,7 +451,7 @@ p <- ggplot(
   ) +
   
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -539,7 +539,7 @@ p_lower_gi <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -620,7 +620,7 @@ p_upper_gi <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -717,7 +717,7 @@ p_han <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -798,7 +798,7 @@ p_lung <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -889,7 +889,7 @@ p_female <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -977,7 +977,7 @@ p_genitourinary <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1061,7 +1061,7 @@ p_other <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1365,7 +1365,7 @@ p1 <- ggplot(
   ) +
   
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1453,7 +1453,7 @@ p_lower_gi1 <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1534,7 +1534,7 @@ p_upper_gi1 <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1631,7 +1631,7 @@ p_han1 <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1712,7 +1712,7 @@ p_lung1 <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1803,7 +1803,7 @@ p_female1 <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1893,7 +1893,7 @@ p_genitourinary1 <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
@@ -1977,7 +1977,7 @@ p_other1 <- ggplot(
     linewidth = 0.25
   ) +
   scale_fill_gradientn(
-    name = "ASMD",
+    name = "SMD",
     colours = c("#1a9850", "#fdae61", "#b2182b"),
     limits = c(0.1, 0.4),
     breaks = c(0.1, 0.2, 0.3, 0.4),
